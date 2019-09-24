@@ -1,0 +1,576 @@
+{
+    "Text1": {
+        "num": 0,
+        "text": "BPID",
+        "id": 0.0,
+        "local": 0,
+        "group": "General Information"
+    },
+    "Text2": {
+        "num": 1,
+        "text": "Organization Legal Name",
+        "id": 0.1,
+        "local": 1,
+        "group": "General Information"
+    },
+    "ComboBox1": {
+        "num": 2,
+        "text": "Does the Participant have current or past experience with CMS Innovation Center models and/or Medicare demonstrations beyond BPCI Advanced?",
+        "id": 1.0,
+        "local": 1,
+        "group": "General Information Requested"
+    },
+    "ComboBox2": {
+        "num": 3,
+        "text": "Does the Participant have experience with value-based care beyond CMS Innovation Center models and/or Medicare demonstrations?",
+        "id": 2.0,
+        "local": 2,
+        "group": "General Information Requested"
+    },
+    "ComboBox3": {
+        "num": 4,
+        "text": "Has the Participant, or any of its Downstream Episode Initiators, NPRA Sharing Partners, or BPCI Advanced Entities, had a legal name change, change of control or change of tax identifier in the last year?",
+        "id": 3.0,
+        "local": 1,
+        "group": "Organization Legal or Identification Changes"
+    },
+    "ComboBox4": {
+        "num": 5,
+        "text": "If selected 'Yes' to question 1, have you reported these changes to CMS? [If your response to this question is 'no', please provide written notice of changes to CMS via email (BPCIAdvanced@cms.hhs.gov). Instruction and additional information are located under Article 3 of the Participation Agreement].",
+        "id": 4.0,
+        "local": 2,
+        "group": "Organization Legal or Identification Changes"
+    },
+    "ComboBox5": {
+        "num": 6,
+        "text": "Does the Participant anticipate making any additional changes to the list of Episode Initiators within the Participant Profile effective for Model Year 3?",
+        "id": 5.0,
+        "local": 1,
+        "group": "Participant Profile"
+    },
+    "ComboBox6": {
+        "num": 7,
+        "text": "Is the Participant likely to add Clinical Episodes within the Participant Profile effective for Model Year 3?",
+        "id": 6.0,
+        "local": 2,
+        "group": "Participant Profile"
+    },
+    "ComboBox7": {
+        "num": 8,
+        "text": "Is the Participant likely to remove Clinical Episodes from the Participant Profile effective for Model Year 3?",
+        "id": 7.0,
+        "local": 3,
+        "group": "Participant Profile"
+    },
+    "RadioButton1": {
+        "num": 9,
+        "text": "The Participant is on track to implement selected Care Redesign interventions within the timeframes indicated within the Care Redesign Plan.",
+        "id": 8.0,
+        "local": 1,
+        "group": "Care Redesign Plan"
+    },
+    "Text3": {
+        "num": 10,
+        "text": "Please provide 2-3 sentences below describing the progress of your high priority Care Redesign Interventions:",
+        "id": 9.0,
+        "local": 2,
+        "group": "Care Redesign Plan"
+    },
+    "ComboBox8": {
+        "num": 11,
+        "text": "Do you have concerns regarding implementation of any identified Care Redesign Interventions?",
+        "id": 10.0,
+        "local": 3,
+        "group": "Care Redesign Plan"
+    },
+    "Text4": {
+        "num": 12,
+        "text": "Please use the comment box below to provide additional details regarding successes, challenges, and/or barriers to Care Redesign Interventions.",
+        "id": 11.0,
+        "local": 4,
+        "group": "Care Redesign Plan"
+    },
+    "ComboBox9": {
+        "num": 13,
+        "text": "The Participant and/or the Downstream Episode Initiator(s) is on track to implement Certified Electronic Health Record Technology (CEHRT) in a manner sufficient to meet the applicable requirements of the Advanced Alternative Payment Model criterion under 42 C.F.R. & 414.1415(a)(1)(i). To meet this criterion, at least 75 percent of eligible clinicians in each participating APM Entity group, or each hospital if hospitals are the APM Entities, to use CEHRT to document and communicate clinical care.",
+        "id": 12.0,
+        "local": 1,
+        "group": "CEHRT Use"
+    },
+    "ComboBox10": {
+        "num": 14,
+        "text": "Has the Participant had challenges meeting the CEHRT use requirements?",
+        "id": 13.0,
+        "local": 2,
+        "group": "CEHRT Use"
+    },
+    "Text5": {
+        "num": 15,
+        "text": "Please use the comment box below to describe any challenges to meeting the CEHRT use requirements.",
+        "id": 14.0,
+        "local": 3,
+        "group": "CEHRT Use"
+    },
+    "ComboBox11": {
+        "num": 16,
+        "text": "For Convener Participants: Has the Participant established agreements with all Downstream Episode Initiators (Acute Care Hospitals, PGPs)?",
+        "id": 15.0,
+        "local": 1,
+        "group": "Partner Agreements"
+    },
+    "ComboBox13": {
+        "num": 17,
+        "text": "Has the Participant established agreements with all Participating Practitioners?",
+        "id": 16.0,
+        "local": 2,
+        "group": "Partner Agreements"
+    },
+    "ComboBox12": {
+        "num": 18,
+        "text": "Has the Participant established processes, procedures and/or controls to validate and support monitoring of these agreements between the Participant and relevant partnering entities/individuals?",
+        "id": 17.0,
+        "local": 3,
+        "group": "Partner Agreements"
+    },
+    "Text6": {
+        "num": 19,
+        "text": "Please use the comment box below to describe any challenges in implementing process and procedures to monitor agreements or in establishing agreements with partners.",
+        "id": 18.0,
+        "local": 4,
+        "group": "Partner Agreements"
+    },
+    "ComboBox14": {
+        "num": 20,
+        "text": "Has the Participant set up an accounting system to be used, to measure and track Net Payment Reconciliation Amounts (NPRA) received from CMS, Repayment Amounts and Excess Spending Amounts owed to CMS and Administrative Services?",
+        "id": 19.0,
+        "local": 1,
+        "group": "Financial / Programmatic Infrastructure"
+    },
+    "ComboBox15": {
+        "num": 21,
+        "text": "Is the Participant still participating in Financial Arrangements with one or more NPRA Sharing Partners?",
+        "id": 20.0,
+        "local": 2,
+        "group": "Financial / Programmatic Infrastructure"
+    },
+    "ComboBox16": {
+        "num": 22,
+        "text": "Does the Participant plan to do so in the future?",
+        "id": 21.0,
+        "local": 3,
+        "group": "Financial / Programmatic Infrastructure"
+    },
+    "ComboBox17": {
+        "num": 23,
+        "text": "Has the Participant implemented all BPCI Advanced required processes and procedures related to NPRA Sharing? For example: processes to verify Financial Arrangements comply with all applicable laws and regulations, processes to adhere to generally accepted accounting principles, compliance plan, and others outlined within the Participation Agreement.",
+        "id": 22.0,
+        "local": 4,
+        "group": "Financial / Programmatic Infrastructure"
+    },
+    "Text7": {
+        "num": 24,
+        "text": "If selected 'No' to question 4, please describe any barriers/challenges in the comment box below.",
+        "id": 23.0,
+        "local": 5,
+        "group": "Financial / Programmatic Infrastructure"
+    },
+    "ComboBox18": {
+        "num": 25,
+        "text": "Has the Participant fully established NPRA Sharing Arrangements with all NPRA Sharing Partners? [If your response to this question is 'yes', please upload your organization's NPRA Sharing Arrangement template or a populated agreement as an example to the amendment section of the Participant Portal. If you have more than one NPRA Sharing Arrangement, upload 1 example only]",
+        "id": 24.0,
+        "local": 6,
+        "group": "Financial / Programmatic Infrastructure"
+    },
+    "Text8": {
+        "num": 26,
+        "text": "If selected 'No' to question 6, please explain noting any barriers or challenges.",
+        "id": 25.0,
+        "local": 7,
+        "group": "Financial / Programmatic Infrastructure"
+    },
+    "ComboBox19": {
+        "num": 27,
+        "text": "Has the Participant established a BPCI Advanced Entity Agreement with a BPCI Advanced Entity?",
+        "id": 26.0,
+        "local": 8,
+        "group": "Financial / Programmatic Infrastructure"
+    },
+    "Text9": {
+        "num": 28,
+        "text": "Please describe key considerations that informed the Participant's decision (e.g. willingness to take on risk) regarding establishing Financial Arrangements.",
+        "id": 27.0,
+        "local": 9,
+        "group": "Financial / Programmatic Infrastructure"
+    },
+    "ComboBox20": {
+        "num": 29,
+        "text": "Does the Participant plan to track and allow contribution of ICS associated with BPCI Advanced to the BPCI Advanced Savings Pool(s) in the next 12 months?",
+        "id": 28.0,
+        "local": 1,
+        "group": "Internal Cost Savings (ICS)"
+    },
+    "ComboBox21": {
+        "num": 30,
+        "text": "If selected 'Yes' to question 1, has the Participant established a process to measure and track Internal Cost Savings associated with BPCI Advanced?",
+        "id": 29.0,
+        "local": 2,
+        "group": "Internal Cost Savings (ICS)"
+    },
+    "ComboBox22": {
+        "num": 31,
+        "text": "Does the Participant plan to share NPRA associated with BPCI Advanced in the first performance period, if savings are achieved? [Performance Period 1: October 1, 2018 through June 30, 2019]",
+        "id": 30.0,
+        "local": 1,
+        "group": "Net Payment Reconciliation Report (NPRA)"
+    },
+    "ComboBox23": {
+        "num": 32,
+        "text": "Has the Participant implemented processes and procedures to monitor Shared Repayment Amounts associated with BPCI Advanced?",
+        "id": 31.0,
+        "local": 2,
+        "group": "Net Payment Reconciliation Report (NPRA)"
+    },
+    "Text10": {
+        "num": 33,
+        "text": "If selected 'Yes' to question 2, please describe your processes and procedures to monitor Shared Repayment Amounts associated with BPCI Advanced.",
+        "id": 32.0,
+        "local": 3,
+        "group": "Net Payment Reconciliation Report (NPRA)"
+    },
+    "ComboBox24": {
+        "num": 34,
+        "text": "Has the Participant completed an initial Compliance Plan? [If your response is 'yes', please upload this document to the amendment section of the Participant Portal If your Compliance Plan includes multiple appendices, you can upload the main document only.]",
+        "id": 33.0,
+        "local": 1,
+        "group": "Compliance Plan"
+    },
+    "ComboBox25": {
+        "num": 35,
+        "text": "Has the Participant or partners elected to use any of the Fraud and AbuseWaivers (Financial Arrangements and/or Beneficiary Incentives)?",
+        "id": 34.0,
+        "local": 1,
+        "group": "Waivers (Fraud & Abuse Waivers and Medicare Payment Policy Waivers)"
+    },
+    "ComboBox26": {
+        "num": 36,
+        "text": "Has the Participant or partners made any changes to the Fraud and Abuse Waiver use selections since you last submitted the Participant Profile? (E.g., we have not selected to use Financial Arrangements and/or Beneficiary Incentives in our most recent Participant Profile, but we have started using the waiver(s) recently.)",
+        "id": 35.0,
+        "local": 2,
+        "group": "Waivers (Fraud & Abuse Waivers and Medicare Payment Policy Waivers)"
+    },
+    "ComboBox27": {
+        "num": 37,
+        "text": "Has the Participant or partners elected to use any of the Medicare Payment Policy (MPP) Waivers?",
+        "id": 36.0,
+        "local": 4,
+        "group": "Waivers (Fraud & Abuse Waivers and Medicare Payment Policy Waivers)"
+    },
+    "ComboBox28": {
+        "num": 38,
+        "text": "If you selected 'Yes' to question 4, have you implemented the Payment Policy Waiver(s)?",
+        "id": 37.0,
+        "local": 5,
+        "group": "Waivers (Fraud & Abuse Waivers and Medicare Payment Policy Waivers)"
+    },
+    "ComboBox29": {
+        "num": 39,
+        "text": "Has the Participant or partners made any changes to the Medicare Payment Policy waiver use selections since you last submitted the Participant Profile? (E.g., we have not selected to use any of the MPP waivers in our most recent Participant Profile, but we have started using the waiver(s) recently.)",
+        "id": 38.0,
+        "local": 6,
+        "group": "Waivers (Fraud & Abuse Waivers and Medicare Payment Policy Waivers)"
+    },
+    "ComboBox30": {
+        "num": 40,
+        "text": "Has the Participant established a process for monitoring compliance with waiver conditions?",
+        "id": 39.0,
+        "local": 8,
+        "group": "Waivers (Fraud & Abuse Waivers and Medicare Payment Policy Waivers)"
+    },
+    "CheckBox1": {
+        "num": 41,
+        "text": "Attestation - If selected 'Yes' to question 8, please select from the list below all of the strategies your organization has used for this purpose.",
+        "id": 40.1,
+        "local": 9,
+        "group": "Waivers (Fraud & Abuse Waivers and Medicare Payment Policy Waivers)"
+    },
+    "CheckBox1_21": {
+        "num": 42,
+        "text": "Internal audit - If selected 'Yes' to question 8, please select from the list below all of the strategies your organization has used for this purpose.",
+        "id": 40.2,
+        "local": 9,
+        "group": "Waivers (Fraud & Abuse Waivers and Medicare Payment Policy Waivers)"
+    },
+    "CheckBox1_31": {
+        "num": 43,
+        "text": "N/A; we have not elected to use any waivers - If selected 'Yes' to question 8, please select from the list below all of the strategies your organization has used for this purpose.",
+        "id": 40.3,
+        "local": 9,
+        "group": "Waivers (Fraud & Abuse Waivers and Medicare Payment Policy Waivers)"
+    },
+    "CheckBox1_41": {
+        "num": 44,
+        "text": "N/A; we have elected to use waivers, but have not yet established a process for monitoring compliance with waiver conditions - If selected 'Yes' to question 8, please select from the list below all of the strategies your organization has used for this purpose.",
+        "id": 40.4,
+        "local": 9,
+        "group": "Waivers (Fraud & Abuse Waivers and Medicare Payment Policy Waivers)"
+    },
+    "CheckBox1_51": {
+        "num": 45,
+        "text": "Other - If selected 'Yes' to question 8, please select from the list below all of the strategies your organization has used for this purpose.",
+        "id": 40.5,
+        "local": 9,
+        "group": "Waivers (Fraud & Abuse Waivers and Medicare Payment Policy Waivers)"
+    },
+    "Text11": {
+        "num": 46,
+        "text": "If selected 'Other' to question 9, please list strategies in the comment box below.",
+        "id": 41.0,
+        "local": 10,
+        "group": "Waivers (Fraud & Abuse Waivers and Medicare Payment Policy Waivers)"
+    },
+    "ComboBox31": {
+        "num": 47,
+        "text": "Has the Participant participated in the shared learning activities (e.g., webinars, emails, town hall meetings) identified by CMS?",
+        "id": 42.0,
+        "local": 1,
+        "group": "Participation in Shared Learning Activities"
+    },
+    "ComboBox32": {
+        "num": 48,
+        "text": "Does the Participant have a process in place related to recordsmanagement associated with BPCI Advanced Model?",
+        "id": 43.0,
+        "local": 1,
+        "group": "Knowledge Management / Record Keeping / Succession Planning"
+    },
+    "ComboBox33": {
+        "num": 49,
+        "text": "Does the Participant have a succession plan in place for when individuals in management or individuals who oversee implementation of the BPCI Advanced Model depart the organization?",
+        "id": 44.0,
+        "local": 2,
+        "group": "Knowledge Management / Record Keeping / Succession Planning"
+    },
+    "Text12": {
+        "num": 50,
+        "text": "If selected 'Yes' to question 2, please provide a brief explanation of that process below.",
+        "id": 45.0,
+        "local": 3,
+        "group": "Knowledge Management / Record Keeping / Succession Planning"
+    },
+    "CheckBox2": {
+        "num": 51,
+        "text": "Emailed to beneficiaries - What is the primary communication channel(s) used to provide beneficiary notification? Select all that applies.",
+        "id": 46.1,
+        "local": 1,
+        "group": "Beneficiary Notification"
+    },
+    "CheckBox2_21": {
+        "num": 52,
+        "text": "Mailed to the beneficiary's address - What is the primary communication channel(s) used to provide beneficiary notification? Select all that applies.",
+        "id": 46.2,
+        "local": 1,
+        "group": "Beneficiary Notification"
+    },
+    "CheckBox2_31": {
+        "num": 53,
+        "text": "Provided to beneficiary during an Inpatient Hospital stay or Outpatient Visit - What is the primary communication channel(s) used to provide beneficiary notification? Select all that applies.",
+        "id": 46.3,
+        "local": 1,
+        "group": "Beneficiary Notification"
+    },
+    "CheckBox2_41": {
+        "num": 54,
+        "text": "Provided during discharge procedures - What is the primary communication channel(s) used to provide beneficiary notification? Select all that applies.",
+        "id": 46.4,
+        "local": 1,
+        "group": "Beneficiary Notification"
+    },
+    "CheckBox2_51": {
+        "num": 55,
+        "text": "Other - What is the primary communication channel(s) used to provide beneficiary notification? Select all that applies.",
+        "id": 46.5,
+        "local": 1,
+        "group": "Beneficiary Notification"
+    },
+    "Text13": {
+        "num": 56,
+        "text": "If selected 'Other' to question 1, please describe the communication channel used to provide beneficiary notifications.",
+        "id": 47.0,
+        "local": 2,
+        "group": "Beneficiary Notification"
+    },
+    "ComboBox34": {
+        "num": 57,
+        "text": "Does the Participant use the template Beneficiary Notification Letter provided by CMS?",
+        "id": 48.0,
+        "local": 3,
+        "group": "Beneficiary Notification"
+    },
+    "Text14": {
+        "num": 58,
+        "text": "If selected 'No' to question 3, please explain.",
+        "id": 49.0,
+        "local": 4,
+        "group": "Beneficiary Notification"
+    },
+    "ComboBox35": {
+        "num": 59,
+        "text": "Has provision of the beneficiary notification of participation resulted in negative feedback from beneficiaries?",
+        "id": 50.0,
+        "local": 5,
+        "group": "Beneficiary Notification"
+    },
+    "Text15": {
+        "num": 60,
+        "text": "If selected 'Yes' to question 5, what are the primary concerns from the beneficiary perspective?",
+        "id": 51.0,
+        "local": 6,
+        "group": "Beneficiary Notification"
+    },
+    "ComboBox36": {
+        "num": 61,
+        "text": "Has the Participant seen any unexpected positive outcomes associated with implementing BPCI Advanced?",
+        "id": 52.0,
+        "local": 1,
+        "group": "BPCI Advanced Impact"
+    },
+    "ComboBox37": {
+        "num": 62,
+        "text": "Has the Participant seen any unexpected negative outcomes associated with implementing BPCI Advanced?",
+        "id": 53.0,
+        "local": 2,
+        "group": "BPCI Advanced Impact"
+    },
+    "Text16": {
+        "num": 63,
+        "text": "If selected 'Yes' to either question 1 or 2, please describe.",
+        "id": 54.0,
+        "local": 3,
+        "group": "BPCI Advanced Impact"
+    },
+    "ComboBox38": {
+        "num": 64,
+        "text": "Has the Participant established a process for monitoring and mitigating unintended consequences (e.g., patient targeting/avoidance, inadequate or insufficient care, costshifting) associated with implementation of the BPCI Advanced Model?",
+        "id": 55.0,
+        "local": 4,
+        "group": "BPCI Advanced Impact"
+    },
+    "Text17": {
+        "num": 65,
+        "text": "If selected 'Yes' to question 4, please describe.",
+        "id": 56.0,
+        "local": 5,
+        "group": "BPCI Advanced Impact"
+    },
+    "ComboBox39": {
+        "num": 66,
+        "text": "Has the Participant implemented a system to request, track and respond to complaints made by BPCI Advanced Beneficiaries? [The complaint process in place does not have to be solely for Beneficiaries in the BPCI Advanced Model. However the current complaint system in place must track complaints made by Beneficiaries in the BPCI Advanced Model.]",
+        "id": 57.0,
+        "local": 1,
+        "group": "Beneficiary Impact"
+    },
+    "RadioButton2": {
+        "num": 67,
+        "text": "If selected 'Yes' to question 1, do you believe that current processes in place appropriately monitor and address those complaints?",
+        "id": 58.0,
+        "local": 2,
+        "group": "Beneficiary Impact"
+    },
+    "ComboBox40": {
+        "num": 68,
+        "text": "Has the Participant received any complaints related to the established system for tracking Beneficiary complaints? (E.g., a beneficiary complained that their complaint was not resolved quickly enough.)",
+        "id": 59.0,
+        "local": 3,
+        "group": "Beneficiary Impact"
+    },
+    "CheckBox3": {
+        "num": 69,
+        "text": "Quality - Please select the categories to which complaints the Participant has received from BPCI Advanced Beneficiaries align. Please select all that apply.",
+        "id": 60.1,
+        "local": 4,
+        "group": "Beneficiary Impact"
+    },
+    "CheckBox3_21": {
+        "num": 70,
+        "text": "Safety - Please select the categories to which complaints the Participant has received from BPCI Advanced Beneficiaries align. Please select all that apply.",
+        "id": 60.2,
+        "local": 4,
+        "group": "Beneficiary Impact"
+    },
+    "CheckBox3_31": {
+        "num": 71,
+        "text": "Timing and Access - Please select the categories to which complaints the Participant has received from BPCI Advanced Beneficiaries align. Please select all that apply.",
+        "id": 60.3,
+        "local": 4,
+        "group": "Beneficiary Impact"
+    },
+    "CheckBox3_41": {
+        "num": 72,
+        "text": "Communication - Please select the categories to which complaints the Participant has received from BPCI Advanced Beneficiaries align. Please select all that apply.",
+        "id": 60.4,
+        "local": 4,
+        "group": "Beneficiary Impact"
+    },
+    "CheckBox3_51": {
+        "num": 73,
+        "text": "Compassion/Caring - Please select the categories to which complaints the Participant has received from BPCI Advanced Beneficiaries align. Please select all that apply.",
+        "id": 60.5,
+        "local": 4,
+        "group": "Beneficiary Impact"
+    },
+    "CheckBox3_61": {
+        "num": 74,
+        "text": "Patient Rights - Please select the categories to which complaints the Participant has received from BPCI Advanced Beneficiaries align. Please select all that apply.",
+        "id": 60.6,
+        "local": 4,
+        "group": "Beneficiary Impact"
+    },
+    "CheckBox3_71": {
+        "num": 75,
+        "text": "Other - Please select the categories to which complaints the Participant has received from BPCI Advanced Beneficiaries align. Please select all that apply.",
+        "id": 60.7,
+        "local": 4,
+        "group": "Beneficiary Impact"
+    },
+    "CheckBox3_71_21": {
+        "num": 76,
+        "text": "N/A; we have not received any complaints from Beneficiaries - Please select the categories to which complaints the Participant has received from BPCI Advanced Beneficiaries align. Please select all that apply.",
+        "id": 60.8,
+        "local": 4,
+        "group": "Beneficiary Impact"
+    },
+    "ComboBox41": {
+        "num": 77,
+        "text": "Is there a designated person(s) for submitting BPCI Advanced required documentation to CMS?",
+        "id": 61.0,
+        "local": 1,
+        "group": "Document Submission"
+    },
+    "Text18": {
+        "num": 78,
+        "text": "Please provide any barriers or challenges associated with submitting required documentation.",
+        "id": 62.0,
+        "local": 2,
+        "group": "Document Submission"
+    },
+    "ComboBox42": {
+        "num": 79,
+        "text": "Is there a designated person(s) for coordinating clinical document requests from the Participant and its Downstream Episode Initiators and other clinical partners?",
+        "id": 63.0,
+        "local": 3,
+        "group": "Document Submission"
+    },
+    "ComboBox43": {
+        "num": 80,
+        "text": "Is the Participant or any of its BPCI Advanced partners under any investigations or subject to sanctions that have not been reported to CMS?",
+        "id": 64.0,
+        "local": 1,
+        "group": "Self-disclosed Investigations or Sanctions"
+    },
+    "Text19": {
+        "num": 81,
+        "text": "Please describe issues, challenges or barriers associated with implementation of the BPCI Advanced Model that have not being discussed above.",
+        "id": 65.0,
+        "local": 1,
+        "group": "Other Issues Not Previously Listed"
+    }
+}
