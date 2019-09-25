@@ -7,3 +7,4 @@ input_example/*
 out/*
 risk_profile_json_old/*
 GUI.spec
+scrap.py

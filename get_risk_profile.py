@@ -41,6 +41,8 @@ risk_profile.to_excel('./risk_profile_reduced.xlsx', index=False)
 # the option strings in PDF, correct strings in risk profile spreadsheet
 # resulting in risk_profile_reduced_option_string_checked.xlsx
 
+############################################################################
+## TODO: start from here to run code below if Joe has any risk_profile-related issues with tool
 # clean up risk_profile_reduced_option_string_checked.xlsx
 risk_profile = pd.read_excel('./risk_profile_reduced_option_string_checked.xlsx')
 risk_profile['risk_score'] = risk_profile['Response Weights'] * risk_profile['Risk Level']
@@ -49,11 +51,10 @@ risk_profile = risk_profile.rename(columns={'ID_in_GUI_output':'id_in_info_json'
 # below standardizes 'N/A' to 'NA' in Response Option
 risk_profile.loc[risk_profile['Response Option'].str.contains('N/A'), 'Response Option'] = \
     [x.replace('N/A', 'NA') for x in risk_profile.loc[risk_profile['Response Option'].str.contains('N/A'), 'Response Option']]
+# 'agreement' vs 'arrangement'
+risk_profile.loc[risk_profile['Response Option']=='NA; already in a financial agreement(s)', 'Response Option'] =\
+    'NA; already in a financial arrangement(s)'
 
-# risk_profile.loc[risk_profile['Response Option']=='N/A; already in a financial agreement(s)', 'Response Option'] =\
-#     'N/A; already in a financial arrangement(s)'
-# risk_profile.loc[risk_profile['Response Option']=='N/A; not using any of the waivers', 'Response Option'] =\
-#     'NA; already in a financial arrangement(s)'
 risk_profile.to_excel('./risk_profile_master.xlsx', index=False)
 
 # now convert risk_profile to a dict - mapping [id_in_info_json][Response Option]

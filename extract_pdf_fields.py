@@ -110,7 +110,11 @@ class ExtractPdfFields:
         if len(name_list) > 0:
             name_item = self.fields[name_list[0][0]]
             if '/V' in name_item.keys():
-                return name_item['/V']
+                name = name_item['/V']
+                # some org legal name can have '-' chars, causing above org to be bytes, so decode in utf-8
+                if isinstance(name, bytes):
+                    name = name.decode('utf-8').strip()
+                return name
             else:
                 return ''
         else:

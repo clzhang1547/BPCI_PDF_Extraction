@@ -94,9 +94,9 @@ class EPFGUI(Tk):
 
         # # TODO: Remove
         # ----------- TEST ONLY ----------------
-        self.pdf_dir.set('C:/workfiles/PDF_Extraction/input')
-        self.json_dir.set('C:/workfiles/PDF_Extraction/info.json')
-        self.out_dir.set('C:/workfiles/PDF_Extraction/out')
+        # self.pdf_dir.set('C:/workfiles/PDF_Extraction/input')
+        # self.json_dir.set('C:/workfiles/PDF_Extraction/info.json')
+        # self.out_dir.set('C:/workfiles/PDF_Extraction/out')
 
 
     def run_pdf_extraction(self):
