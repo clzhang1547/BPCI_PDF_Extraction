@@ -71,6 +71,7 @@ class ExtractPdfFields:
         # Extract the needed file information
         self._import()
         # Parse the field info.
+        print('Now parsing %s' % self._pdf_file_path)
         self._parse_fields()
 
     def import_risk_profile(self):
@@ -113,7 +114,7 @@ class ExtractPdfFields:
                 name = name_item['/V']
                 # some org legal name can have '-' chars, causing above org to be bytes, so decode in utf-8
                 if isinstance(name, bytes):
-                    name = name.decode('utf-8').strip()
+                    name = name.decode('utf-8', errors='ignore').strip()
                 return name
             else:
                 return ''
@@ -278,6 +279,12 @@ class ExtractPdfFields:
         # if not os.path.exists('./out'):
         #     os.mkdir('./out')
         org = self.organization_name.lower().strip()
+        # some org name has chars not allowed for windows file names, replace as '-'
+        bad_fn_chars = ['\\', '/', ':', '*', '?', '\"', '<', '>', '|']
+        any_bad_fn_chars = sum([x in org for x in bad_fn_chars])
+        if any_bad_fn_chars > 0:
+            for char in bad_fn_chars:
+                org = org.replace(char, '-')
         bpci = self.bpci_id.lower().strip()
         # Begin with the response file name without extension.
         out = self._out_file_path + '/responses_' + org + '_' + bpci
@@ -304,7 +311,7 @@ class ExtractPdfFields:
                 writer = csv.writer(f)
                 writer.writerow([org, bpci])
         # Begin with the raw response file name without extension.
-        out = self._out_file_path + '/responses_raw_' + self.organization_name.lower().strip()
+        out = self._out_file_path + '/responses_raw_' + org
         out += '_' + self.bpci_id.lower().strip()
         # Write responses to XLSX.
         self.response_data_raw.to_excel(out + '.xlsx', index=False)

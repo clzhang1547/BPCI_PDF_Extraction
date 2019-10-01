@@ -94,9 +94,9 @@ class EPFGUI(Tk):
 
         # # TODO: Remove
         # ----------- TEST ONLY ----------------
-        # self.pdf_dir.set('C:/workfiles/PDF_Extraction/input')
-        # self.json_dir.set('C:/workfiles/PDF_Extraction/info.json')
-        # self.out_dir.set('C:/workfiles/PDF_Extraction/out')
+        self.pdf_dir.set('C:/workfiles/PDF_Extraction/input')
+        self.json_dir.set('C:/workfiles/PDF_Extraction/info.json')
+        self.out_dir.set('C:/workfiles/PDF_Extraction/out')
 
 
     def run_pdf_extraction(self):
@@ -124,7 +124,7 @@ class EPFGUI(Tk):
                 epf = ExtractPdfFields(pdf_fp_file, info_fp, out_fp, now)
                 epf.export()
                 self.n_pdf_processed += 1
-                self.progress['value']+=100*self.n_pdf_processed/len(pdfs)
+                self.progress['value']+=100/len(pdfs)
                 self.update_idletasks()
             self.progress['value']=100
             self.finished = True
