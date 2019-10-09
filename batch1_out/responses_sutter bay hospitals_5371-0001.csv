@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+5371-0001,0.0,5371-0001,,,
+5371-0001,0.1,Sutter Bay Hospitals,,,
+5371-0001,1.0,Yes,1.0,4.0,4.0
+5371-0001,2.0,Yes,1.0,4.0,4.0
+5371-0001,3.0,No,1.0,3.0,3.0
+5371-0001,4.0,NA; we didn't have any changes,0.0,7.0,0.0
+5371-0001,5.0,Yes,3.0,5.0,15.0
+5371-0001,6.0,Yes,3.0,6.0,18.0
+5371-0001,7.0,Unsure,2.0,4.0,8.0
+5371-0001,8.0,Neutral,2.0,4.0,8.0
+5371-0001,9.0,"Sutter Health's planned care improvement interventions for BPCI-A care episodes incorporate Lean process redesign to achieve better patient outcomes, higher patient satisfaction, and Medicare fee-for-service cost savings by improving care coordination and implementing more efficient, collaborative care. To date, Sutter's analysis of episodes of care within our system has revealed process variability in the utilization of skilled-nursing and acute-rehabilitation services that does not appear to be related to patient characteristics.Participation in the BPCI-A program is enabling Sutter to reexamine all aspects of episodic care, from pre-operative patient education through post-discharge home health and outpatient therapy, to standardizeour processes for ensuring each patient receives the appropriate level of post-acute care throughout the clinical episode.",,,
+5371-0001,10.0,Yes,3.0,6.0,18.0
+5371-0001,11.0,"Care Redesign interventions often involve third-party partnerships and collaborations, such as establishing standard orders with a diverse range of clinicians and post-acute care management protocols. While these collaborations are worthwhile, these also take time to achieve consensus and broad adoption.",,,
+5371-0001,12.0,Yes,1.0,3.0,3.0
+5371-0001,13.0,No,1.0,3.0,3.0
+5371-0001,14.0,NA,,,
+5371-0001,15.0,Yes,1.0,7.0,7.0
+5371-0001,16.0,No,3.0,7.0,21.0
+5371-0001,17.0,Yes,1.0,7.0,7.0
+5371-0001,18.0,"The timeline for the BPCI Advanced Model has been significantly tight in terms of data availability, participation determination, episode selections, and establishing partner agreements.",,,
+5371-0001,19.0,Yes,1.0,7.0,7.0
+5371-0001,20.0,Yes,3.0,5.0,15.0
+5371-0001,21.0,Yes,3.0,3.0,9.0
+5371-0001,22.0,Yes,1.0,7.0,7.0
+5371-0001,23.0,NA,,,
+5371-0001,24.0,Yes,1.0,7.0,7.0
+5371-0001,25.0,NA,,,
+5371-0001,26.0,No,3.0,7.0,21.0
+5371-0001,27.0,"A crucial consideration in establishing Financial Arrangements has been the fact that episode initiating physicians have expected upside-only arrangements in the current business environment, where the hospital systems face competition from private equity companies (as conveners) and physician groups themselves (as either conveners or non-conveners). This reality has presented challenges to effective alignment with episode initiators.",,,
+5371-0001,28.0,No,1.0,5.0,5.0
+5371-0001,29.0,NA; we don't participate in ICS Sharing,0.0,7.0,0.0
+5371-0001,30.0,Yes,3.0,5.0,15.0
+5371-0001,31.0,Yes,1.0,7.0,7.0
+5371-0001,32.0,"Sutter Health has hired a claims analytics vendor to assist with performance period reconciliations and NPRA calculations, including Shared Repayment Amounts.",,,
+5371-0001,33.0,Yes,1.0,7.0,7.0
+5371-0001,34.0,Yes,3.0,5.0,15.0
+5371-0001,35.0,No,1.0,3.0,3.0
+5371-0001,36.0,Yes,3.0,5.0,15.0
+5371-0001,37.0,No,1.0,5.0,5.0
+5371-0001,38.0,No,1.0,3.0,3.0
+5371-0001,39.0,Yes,1.0,6.0,6.0
+5371-0001,40.1,,,,
+5371-0001,40.2,,,,
+5371-0001,40.3,,,,
+5371-0001,40.4,,,,
+5371-0001,40.5,Yes,,,
+5371-0001,41.0,"To be clear, Sutter Health is not using MPP Waivers, but we are using the Fraud & Abuse waivers. Our compliance program would audit any sharing payment for compliance with the Fraud & Abuse, noting again we are not using the Medicare Payment Policy Waivers at this time.",,,
+5371-0001,42.0,Yes,1.0,3.0,3.0
+5371-0001,43.0,Yes,1.0,7.0,7.0
+5371-0001,44.0,Yes,1.0,5.0,5.0
+5371-0001,45.0,"Sutter Health has established an Executive Steering Committee to lead and monitor the BPCI Advanced program. This team of senior executives has direct accountability for the various functional areas necessary to effectively perform in value-based care and these senior executives provide an inherent succession plan to ensure ongoing engagement in this program.Furthermore, Sutter Health has a well-established succession planning process and tools to support leadership development and effectiveness across all functional areas within the enterprise.",,,
+5371-0001,46.1,,,,
+5371-0001,46.2,,,,
+5371-0001,46.3,Yes,,,
+5371-0001,46.4,Yes,,,
+5371-0001,46.5,,,,
+5371-0001,47.0,NA,,,
+5371-0001,48.0,Yes,1.0,7.0,7.0
+5371-0001,49.0,NA,,,
+5371-0001,50.0,Yes,3.0,5.0,15.0
+5371-0001,51.0,"Some Medicare beneficiaries are confused by the requirement to furnish the Beneficiary Notification Letter (BNL), as a subset of patients have considered this document a potential indication of substandard care as determined by CMS. Simply put, the BNL is confusing for some beneficiaries.",,,
+5371-0001,52.0,Unsure,2.0,4.0,8.0
+5371-0001,53.0,Unsure,2.0,4.0,8.0
+5371-0001,54.0,NA,,,
+5371-0001,55.0,Yes,1.0,6.0,6.0
+5371-0001,56.0,Each hospital team has formed workgroups to monitor current performance and discuss opportunities for variation reduction that aligns with the design of the BPCI Advanced program. This variation reduction work includes identifying and addressing unintended consequences associated with the implementation of the BPCI Advanced Model.,,,
+5371-0001,57.0,Yes; using existing system,1.0,7.0,7.0
+5371-0001,58.0,Neutral,2.0,7.0,14.0
+5371-0001,59.0,No,1.0,4.0,4.0
+5371-0001,60.1,,,,
+5371-0001,60.2,,,,
+5371-0001,60.3,,,,
+5371-0001,60.4,,,,
+5371-0001,60.5,,,,
+5371-0001,60.6,,,,
+5371-0001,60.7,,,,
+5371-0001,60.8,Yes,,,
+5371-0001,61.0,Yes,1.0,7.0,7.0
+5371-0001,62.0,"The timeline to respond to CMS documentation requirements is a challenge for a system this size, especially in light of the numerous stakeholders involved in a program with this scope.",,,
+5371-0001,63.0,Yes,1.0,7.0,7.0
+5371-0001,64.0,Yes,3.0,7.0,21.0
+5371-0001,65.0,NA,,,

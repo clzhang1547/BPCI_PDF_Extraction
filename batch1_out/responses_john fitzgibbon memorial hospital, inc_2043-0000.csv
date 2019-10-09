@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+2043-0000,0.0,2043-0000,,,
+2043-0000,0.1,"John Fitzgibbon Memorial Hospital, Inc",,,
+2043-0000,1.0,No,3.0,4.0,12.0
+2043-0000,2.0,No,3.0,4.0,12.0
+2043-0000,3.0,No,1.0,3.0,3.0
+2043-0000,4.0,NA; we didn't have any changes,0.0,7.0,0.0
+2043-0000,5.0,No,1.0,5.0,5.0
+2043-0000,6.0,Unsure,2.0,6.0,12.0
+2043-0000,7.0,Unsure,2.0,4.0,8.0
+2043-0000,8.0,Agree,1.0,4.0,4.0
+2043-0000,9.0,implemented Rx driven med rec on each BPCI Advanced patient.,,,
+2043-0000,10.0,No,1.0,6.0,6.0
+2043-0000,11.0,"We no longer have the Transitional Care Management (TCM) RN role to assist with the management of patients post-acute stay.  At this time, it is our hospital-based case manager RNs who follow-up via phone calls to determine if additional referrals need to be made for the patient to manage their care in the 90 day episode.",,,
+2043-0000,12.0,Yes,1.0,3.0,3.0
+2043-0000,13.0,No,1.0,3.0,3.0
+2043-0000,14.0,,,,
+2043-0000,15.0,NA; we are a Non-Convener Participant,0.0,7.0,0.0
+2043-0000,16.0,Yes,1.0,7.0,7.0
+2043-0000,17.0,Yes,1.0,7.0,7.0
+2043-0000,18.0,We have not agreements with partners.  We are the sole participant as the Episode Initiator.,,,
+2043-0000,19.0,NA: System already in place before this model,0.0,7.0,0.0
+2043-0000,20.0,NA; never participated in financial arrangements,0.0,5.0,0.0
+2043-0000,21.0,Unsure,2.0,3.0,6.0
+2043-0000,22.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+2043-0000,23.0,NA,,,
+2043-0000,24.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+2043-0000,25.0,NA,,,
+2043-0000,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+2043-0000,27.0,NA,,,
+2043-0000,28.0,No,1.0,5.0,5.0
+2043-0000,29.0,---,,,
+2043-0000,30.0,No,1.0,5.0,5.0
+2043-0000,31.0,NA; not requiring shared repayments by partners,0.0,7.0,0.0
+2043-0000,32.0,,,,
+2043-0000,33.0,In progress,2.0,7.0,14.0
+2043-0000,34.0,No,1.0,5.0,5.0
+2043-0000,35.0,NA; we don't use Fraud and Abuse Waivers,0.0,3.0,0.0
+2043-0000,36.0,Yes,3.0,5.0,15.0
+2043-0000,37.0,No,1.0,5.0,5.0
+2043-0000,38.0,No,1.0,3.0,3.0
+2043-0000,39.0,Yes,1.0,6.0,6.0
+2043-0000,40.1,Yes,,,
+2043-0000,40.2,,,,
+2043-0000,40.3,,,,
+2043-0000,40.4,Yes,,,
+2043-0000,40.5,,,,
+2043-0000,41.0,"We elected to use the post-discharge Home visit Waiver however we have not utilized this on any patients at the time of submission of this document.  If and when we do, the Clinical Quality Director is made aware so that the team may review/audit prior to initiating a waiver.",,,
+2043-0000,42.0,Yes,1.0,3.0,3.0
+2043-0000,43.0,Yes,1.0,7.0,7.0
+2043-0000,44.0,No,3.0,5.0,15.0
+2043-0000,45.0,,,,
+2043-0000,46.1,,,,
+2043-0000,46.2,Yes,,,
+2043-0000,46.3,Yes,,,
+2043-0000,46.4,,,,
+2043-0000,46.5,,,,
+2043-0000,47.0,,,,
+2043-0000,48.0,Yes,1.0,7.0,7.0
+2043-0000,49.0,,,,
+2043-0000,50.0,No,1.0,5.0,5.0
+2043-0000,51.0,,,,
+2043-0000,52.0,Unsure,2.0,4.0,8.0
+2043-0000,53.0,Yes,3.0,4.0,12.0
+2043-0000,54.0,It has been difficult for our case managers to negotiate skilled care length of stay since we have elected not to participate price sharing at this time.,,,
+2043-0000,55.0,Yes,1.0,6.0,6.0
+2043-0000,56.0,"We have two interdiscipliary teams, one team focuses on acute care management (Sepsis bundles) and the second team focuses on the post-acute care management (preventing readmissions by identifying potential referrals needed in the 90day period).  There is overlap in membership of the teams.",,,
+2043-0000,57.0,Yes; using existing system,1.0,7.0,7.0
+2043-0000,58.0,Strongly Agree,1.0,7.0,7.0
+2043-0000,59.0,No,1.0,4.0,4.0
+2043-0000,60.1,,,,
+2043-0000,60.2,,,,
+2043-0000,60.3,,,,
+2043-0000,60.4,,,,
+2043-0000,60.5,,,,
+2043-0000,60.6,,,,
+2043-0000,60.7,,,,
+2043-0000,60.8,Yes,,,
+2043-0000,61.0,Yes,1.0,7.0,7.0
+2043-0000,62.0,"No challenges at this time with submitting required documentation, however we are experiencing barriers to receiving our BPCI Advanced data related to beneficiary claims from the portal.",,,
+2043-0000,63.0,Yes,1.0,7.0,7.0
+2043-0000,64.0,No,1.0,7.0,7.0
+2043-0000,65.0,"The program coordinator has not been awarded access to be able to pull beneficiary data from CMS portal.  A ticket has been submitted and has not been resolved.  We are having to utilize a 3rd party to receive beneficiary data.Having 3 different portals to access for data, education and documentation submission is a challenge.",,,

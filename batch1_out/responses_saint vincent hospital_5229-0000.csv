@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+5229-0000,0.0,5229-0000,,,
+5229-0000,0.1,Saint Vincent Hospital,,,
+5229-0000,1.0,No,3.0,4.0,12.0
+5229-0000,2.0,Yes,1.0,4.0,4.0
+5229-0000,3.0,No,1.0,3.0,3.0
+5229-0000,4.0,NA; we didn't have any changes,0.0,7.0,0.0
+5229-0000,5.0,No,1.0,5.0,5.0
+5229-0000,6.0,Unsure,2.0,6.0,12.0
+5229-0000,7.0,No,1.0,4.0,4.0
+5229-0000,8.0,Agree,1.0,4.0,4.0
+5229-0000,9.0,"The Epic clinical EMR is very supportive of care being delivered for the initial acute episode, and for follow-up care by the AMI nurse navigator and care team, and into the physician offices of our collaborators.  We have developed the ability to get reports on all patients coded to an AMI DRG, who will thus be in the BPCI program.  Our AMI care team has gained great experience following patients across their 90 day episodes.  The cardiac physician champion, the cardiac clinical manager (a physician assistant) and the AMI navigator are all highly committed and now experienced.  In the last 5 months we have added a cardiac pharmacist, who handles discharge medication reconciliation on all AMI patients, and follows-up with them post-discharge.  We have also added a cardiac exercise physiologist who helps AMI patients craft individualized exercise programs.  We have clinical data support for analyzing the claims data.  The Executive Leadership Team is highly engaged at our BPCI Steering Council.",,,
+5229-0000,10.0,Yes,3.0,6.0,18.0
+5229-0000,11.0,"We are working on the CarePort EMR software that would notify us if patients get admitted elsewhere, but this module is not yet installed in several of the regional hospitals where our AMI patients get their local care. Thus unless patients tell us (and we do ask), we are not always aware of ER Visits and Readmissions to other hospitals, until we get the CMS claims data well after the care delivery.  The Telehealth patient tools have been not as robust as desired, nor as accepted by patients as hoped.  Addressing socio-economic barriers to care is an every day challenge.  There can be gaps in the post-acute collaboration (e.g. one patient spent 44 days in a SNF outside our state).",,,
+5229-0000,12.0,Yes,1.0,3.0,3.0
+5229-0000,13.0,No,1.0,3.0,3.0
+5229-0000,14.0,,,,
+5229-0000,15.0,NA; we are a Non-Convener Participant,0.0,7.0,0.0
+5229-0000,16.0,Yes,1.0,7.0,7.0
+5229-0000,17.0,Yes,1.0,7.0,7.0
+5229-0000,18.0,,,,
+5229-0000,19.0,Partial; establishing accounting system,2.0,7.0,14.0
+5229-0000,20.0,NA; never participated in financial arrangements,0.0,5.0,0.0
+5229-0000,21.0,Unsure,2.0,3.0,6.0
+5229-0000,22.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+5229-0000,23.0,Allegheny Health Network and SVH has an accounting system in place for tracking all general ledger activity related to patient claims as well as initiatives such as BPCI-Adv.We will plan to set up a formal accounting process once we enter into a Financial Arrangement with participating practitioners.,,,
+5229-0000,24.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+5229-0000,25.0,,,,
+5229-0000,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+5229-0000,27.0,,,,
+5229-0000,28.0,No,1.0,5.0,5.0
+5229-0000,29.0,---,,,
+5229-0000,30.0,No,1.0,5.0,5.0
+5229-0000,31.0,Yes,1.0,7.0,7.0
+5229-0000,32.0,"Our Business Intelligence team sent out performance monitoring data on a monthly basis (claims data) for Performance Period 1.  This process in ongoing currently through Performance Period 2.In the event of a repayment to CMS, a liability will be set up for the amount owed and paid back in accordance with the CMS instructions.",,,
+5229-0000,33.0,Yes,1.0,7.0,7.0
+5229-0000,34.0,Yes,3.0,5.0,15.0
+5229-0000,35.0,No,1.0,3.0,3.0
+5229-0000,36.0,No,1.0,5.0,5.0
+5229-0000,37.0,NA; we don't use MPP Waivers,0.0,5.0,0.0
+5229-0000,38.0,NA; we don't use MPP Waivers,0.0,3.0,0.0
+5229-0000,39.0,NA; not using any of the waivers,0.0,6.0,0.0
+5229-0000,40.1,,,,
+5229-0000,40.2,,,,
+5229-0000,40.3,,,,
+5229-0000,40.4,,,,
+5229-0000,40.5,,,,
+5229-0000,41.0,,,,
+5229-0000,42.0,Yes,1.0,3.0,3.0
+5229-0000,43.0,Yes,1.0,7.0,7.0
+5229-0000,44.0,Yes,1.0,5.0,5.0
+5229-0000,45.0,"Our hospital and health system provide oversight and coverage for both Clinical Operations and Administrative Support specifically to the BPCI-Advanced Model.  There has been and continues to be broad transparency, collaboration and support in the work done by all teams working on this Program.",,,
+5229-0000,46.1,,,,
+5229-0000,46.2,Yes,,,
+5229-0000,46.3,Yes,,,
+5229-0000,46.4,,,,
+5229-0000,46.5,,,,
+5229-0000,47.0,,,,
+5229-0000,48.0,Yes,1.0,7.0,7.0
+5229-0000,49.0,,,,
+5229-0000,50.0,No,1.0,5.0,5.0
+5229-0000,51.0,,,,
+5229-0000,52.0,Yes,1.0,4.0,4.0
+5229-0000,53.0,Yes,3.0,4.0,12.0
+5229-0000,54.0,"1. We have experienced great engagement of our Executive Leadership Team participating in the BPCI-Adv Steering Team with increased collaboration and understanding of patient care/work flows.2. For patients placed in the AMI Clinical Episode DRG, physicians have had difficulty amending the health record when the Final DRG is issued and that Final DRG is then not indicative for an AMI DRG (ie, upon further diagnostic testing, it is confirmed the patient did not experience an AMI) and before the patient discharge.",,,
+5229-0000,55.0,Yes,1.0,6.0,6.0
+5229-0000,56.0,"Our Executive Leadership Team is interfacing with our Direct Patient Care Team continuously and focusing on the Right Care at the Right Time for every patient (not just the AMI clinical episode).Regarding cost-shifting:  Our teams have also focused on demand-destruction of inpt rehabilitation and keeping patients in an inpt status to reduce costs.Our organization recently revised its Mission and Vision statement to reflect a sharper focus on consumers, overall health, and people's experience.  This update will guide our 2025 strategy called a 'Higher Mark'.  Some attributes of this statement:* High quality in every instance;* Accessible to everyone in every community we serve;* Affordable without ever sacrificing quality;* Worry-free at every touchpoint.Our vision is to be the catalyst that ignites a revolution in health care where everyone benefits from it.",,,
+5229-0000,57.0,Yes; using existing system,1.0,7.0,7.0
+5229-0000,58.0,Agree,1.0,7.0,7.0
+5229-0000,59.0,No,1.0,4.0,4.0
+5229-0000,60.1,,,,
+5229-0000,60.2,,,,
+5229-0000,60.3,,,,
+5229-0000,60.4,,,,
+5229-0000,60.5,,,,
+5229-0000,60.6,,,,
+5229-0000,60.7,,,,
+5229-0000,60.8,Yes,,,
+5229-0000,61.0,Yes,1.0,7.0,7.0
+5229-0000,62.0,"There have been no barriers or challenges associated with submitting required documentation.  Any issues have been quickly amended by the BPCI-Adv Support Team.Overall, the design of the BPCI-Adv Portal works well from our perspective.",,,
+5229-0000,63.0,Yes,1.0,7.0,7.0
+5229-0000,64.0,No,1.0,7.0,7.0
+5229-0000,65.0,"While a report was developed within our EMR to identify BPCI-Adv patients, there has been difficulty in successfully performing Advanced Care Planning (ACP), CPT 99497-99498. The challenges encompass the workflow (difficult to have discussion in every patient instance) and coding & documentation to support the coding requirements (discussion time length to meet of at least 30 minutes).If the patient is not expected to expire from an AMI and the clinician begins the ACP discussion, the patient may become scared of a 'death panel' and/or declines an ACP.  It can be a quick 2-minute discussion and does not meet the code's requirements to bill it.",,,

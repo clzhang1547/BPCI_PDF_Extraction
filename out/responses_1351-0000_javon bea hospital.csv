@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+1351-0000,0.0,1351-0000,,,
+1351-0000,0.1,Javon Bea Hospital,,,
+1351-0000,1.0,Yes,1.0,4.0,4.0
+1351-0000,2.0,Yes,1.0,4.0,4.0
+1351-0000,3.0,Yes,3.0,3.0,9.0
+1351-0000,4.0,No,3.0,7.0,21.0
+1351-0000,5.0,No,1.0,5.0,5.0
+1351-0000,6.0,Unsure,2.0,6.0,12.0
+1351-0000,7.0,Unsure,2.0,4.0,8.0
+1351-0000,8.0,Agree,1.0,4.0,4.0
+1351-0000,9.0,We have done a nice job keeping track of these patients while they are in the hospital and getting them in to see a primary care provider or other specialist within a week. Our care coordinators are monitoring these patients after discharge with good engagement from most patients.,,,
+1351-0000,10.0,Yes,3.0,6.0,18.0
+1351-0000,11.0,"Identifying which patients will eventually be part of the bundle with precision has been challenging. In response, we have been notifying any patient that may fall into it, which has resulted in us notifying a lot of patients about the bundle unnecessarily. We haven't had as many episodes as we have historically, partially due to variation and partially as a result of more accurate coding, which has resulted in more precise DRGs being used more frequently, and thus fewer of these particular episodes. It has been challenging keeping close tabs on the post-discharge care setting usage rather than sending them to a post-acute facility by default. This has led to higher Medicare spending on these patients than we anticipated.",,,
+1351-0000,12.0,Yes,1.0,3.0,3.0
+1351-0000,13.0,No,1.0,3.0,3.0
+1351-0000,14.0,,,,
+1351-0000,15.0,NA; we are a Non-Convener Participant,0.0,7.0,0.0
+1351-0000,16.0,Yes,1.0,7.0,7.0
+1351-0000,17.0,Yes,1.0,7.0,7.0
+1351-0000,18.0,,,,
+1351-0000,19.0,NA: System already in place before this model,0.0,7.0,0.0
+1351-0000,20.0,NA; never participated in financial arrangements,0.0,5.0,0.0
+1351-0000,21.0,Unsure,2.0,3.0,6.0
+1351-0000,22.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+1351-0000,23.0,NA,,,
+1351-0000,24.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+1351-0000,25.0,NA,,,
+1351-0000,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+1351-0000,27.0,"Our structure and existing programs weighed heavily in our decision. All of our providers are directly employed by our hospital entity, not contracted as a separate group, and we already have an incentive mechanism in place that is tied to our performance on cost and quality in our full portfolio of value-based programs. We determined that setting up a separate incentive infrastructure specific to a single program would be duplicative and prohibitive to participating in the program.",,,
+1351-0000,28.0,No,1.0,5.0,5.0
+1351-0000,29.0,NA; we don't participate in ICS Sharing,0.0,7.0,0.0
+1351-0000,30.0,No,1.0,5.0,5.0
+1351-0000,31.0,NA; not requiring shared repayments by partners,0.0,7.0,0.0
+1351-0000,32.0,NA,,,
+1351-0000,33.0,In progress,2.0,7.0,14.0
+1351-0000,34.0,No,1.0,5.0,5.0
+1351-0000,35.0,NA; we don't use Fraud and Abuse Waivers,0.0,3.0,0.0
+1351-0000,36.0,No,1.0,5.0,5.0
+1351-0000,37.0,NA; we don't use MPP Waivers,0.0,5.0,0.0
+1351-0000,38.0,NA; we don't use MPP Waivers,0.0,3.0,0.0
+1351-0000,39.0,NA; not using any of the waivers,0.0,6.0,0.0
+1351-0000,40.1,,,,
+1351-0000,40.2,,,,
+1351-0000,40.3,Yes,,,
+1351-0000,40.4,,,,
+1351-0000,40.5,,,,
+1351-0000,41.0,,,,
+1351-0000,42.0,Yes,1.0,3.0,3.0
+1351-0000,43.0,Yes,1.0,7.0,7.0
+1351-0000,44.0,Yes,1.0,5.0,5.0
+1351-0000,45.0,"Our Population Health Steering Committee oversees all of our value-based programs, so there are always multiple people knowledgeable about the program. If the executive overseeing it were to leave, there is another layer of management involved that could pick up tasks as needed. Those people have access to the portals and documents that would be needed to manage the required tasks as part of participation. We also have interdisciplinary working groups that report to the Steering Committee which are comprised of people knowledgeable about the program that could step in to perform tasks and/or lead initiatives if needed.",,,
+1351-0000,46.1,,,,
+1351-0000,46.2,,,,
+1351-0000,46.3,Yes,,,
+1351-0000,46.4,Yes,,,
+1351-0000,46.5,,,,
+1351-0000,47.0,,,,
+1351-0000,48.0,Yes,1.0,7.0,7.0
+1351-0000,49.0,,,,
+1351-0000,50.0,Yes,3.0,5.0,15.0
+1351-0000,51.0,"A few patients have complained that they are uneasy about it simply because they receive so many documents on admission, so it's easy to get confused, particularly in the case of the conditions we're participating in (AMI and Cardiac Arrhythmia). It's not frequent but it has come up from time to time. It's unclear whether or not it has any real value to the patient.",,,
+1351-0000,52.0,Yes,1.0,4.0,4.0
+1351-0000,53.0,Yes,3.0,4.0,12.0
+1351-0000,54.0,"If nothing else, we have learned quite a bit about ourselves and our own facility by participating in the program. We assume that payment models like this will be mandatory in the future, so we're using this voluntary time to learn how to succeed. Higher spend than we had hoped which may result in repayment by us to CMS is an unexpected negative outcome that we anticipate as a possibility, but we're unsure of that at this point until we get an official reconciliation.",,,
+1351-0000,55.0,No,3.0,6.0,18.0
+1351-0000,56.0,,,,
+1351-0000,57.0,Yes; using existing system,1.0,7.0,7.0
+1351-0000,58.0,Strongly Agree,1.0,7.0,7.0
+1351-0000,59.0,No,1.0,4.0,4.0
+1351-0000,60.1,,,,
+1351-0000,60.2,,,,
+1351-0000,60.3,,,,
+1351-0000,60.4,Yes,,,
+1351-0000,60.5,,,,
+1351-0000,60.6,,,,
+1351-0000,60.7,,,,
+1351-0000,60.8,,,,
+1351-0000,61.0,Yes,1.0,7.0,7.0
+1351-0000,62.0,"Nothing significant; sometimes it's difficult knowing what exactly needs to be done and getting clarification around that. As noted earlier in this questionnaire, we had an LBN change recently that was submitted to CMS via PECOS, but didn't carry over to this CMMI program. We didn't realize that until just now, so we'll get that submitted separately and taken care of. But it is a duplication given that we notified CMS through another channel. Anything that can be streamlined related to documentation is greatly appreciated.",,,
+1351-0000,63.0,Yes,1.0,7.0,7.0
+1351-0000,64.0,No,1.0,7.0,7.0
+1351-0000,65.0,"We occasionally submit emails to the BPCI mailbox. It would be helpful to have a phone option/helpline as well for more urgent questions, or to explain complicated questions more easily and add context. The MSSP has this and it has proven to be helpful, especially when time is of the essence. It would also be helpful to have a calendar showing when official reports will be issued (especially reconciliation reports). Vague deadlines such as ""this fall"" aren't as helpful for planning purposes (report-out meetings, etc.). The MSSP has a calendar which has been helpful and probably generates fewer emails to CMS asking about the timing.",,,

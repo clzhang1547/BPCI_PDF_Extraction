@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+1104-0000,0.0,1104-0000,,,
+1104-0000,0.1,Geisinger Lewistown Hospital,,,
+1104-0000,1.0,Yes,1.0,4.0,4.0
+1104-0000,2.0,No,3.0,4.0,12.0
+1104-0000,3.0,No,1.0,3.0,3.0
+1104-0000,4.0,NA; we didn't have any changes,0.0,7.0,0.0
+1104-0000,5.0,No,1.0,5.0,5.0
+1104-0000,6.0,Yes,3.0,6.0,18.0
+1104-0000,7.0,Yes,3.0,4.0,12.0
+1104-0000,8.0,Agree,1.0,4.0,4.0
+1104-0000,9.0,This participating ACH has  adopted the following practice changes through  an  engaged Clinician group. 1. Utilizing the working DRG list to identify BPCIA patients during the anchor stay; 2. Utilizing a scoring tool to offer guidance in most effective first place destination;  3. Reviewing BPCIA discharge destination data to drive better performance 4. Dedicating case manager to follow beneficiaries with non-Geisiner employed PCPs/ Case Managers.,,,
+1104-0000,10.0,Yes,3.0,6.0,18.0
+1104-0000,11.0,"This ACH is a small hospital within our Geisinger system and has low volumes. Although they are engaged and making changes related to post acute destination, we have seen some extremely challenging situations that have yielded high costs in the post acute arena that are outside the control and influence of our clinical teams. The lack of home health and high quality SNFs add to the challenge.",,,
+1104-0000,12.0,Yes,1.0,3.0,3.0
+1104-0000,13.0,No,1.0,3.0,3.0
+1104-0000,14.0,,,,
+1104-0000,15.0,NA; we are a Non-Convener Participant,0.0,7.0,0.0
+1104-0000,16.0,No,3.0,7.0,21.0
+1104-0000,17.0,No,3.0,7.0,21.0
+1104-0000,18.0,We are not a convener participant and we have  not yet used gain sharing agreements with other entities.,,,
+1104-0000,19.0,Yes,1.0,7.0,7.0
+1104-0000,20.0,NA; never participated in financial arrangements,0.0,5.0,0.0
+1104-0000,21.0,Unsure,2.0,3.0,6.0
+1104-0000,22.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+1104-0000,23.0,"Geisinger's compensation plan does not allow for sharing with individual Physicians or PGPs; During BPCI Classic program, the Geisinger system did engage in an EIP NPRA gain sharing program that was complex and time consuming with administrative costs. We also found that only about 1/3 of BPCI Classic beneficiaries chose a partnering EIP. Therefor we have chosen not to gain share with EIPS at this time.",,,
+1104-0000,24.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+1104-0000,25.0,,,,
+1104-0000,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+1104-0000,27.0,We had limited success with the EIP Gain Sharing process with BPCI Classic program. We continue to explore how we might do so again in this program.,,,
+1104-0000,28.0,No,1.0,5.0,5.0
+1104-0000,29.0,---,,,
+1104-0000,30.0,No,1.0,5.0,5.0
+1104-0000,31.0,NA; not requiring shared repayments by partners,0.0,7.0,0.0
+1104-0000,32.0,,,,
+1104-0000,33.0,Yes,1.0,7.0,7.0
+1104-0000,34.0,Yes,3.0,5.0,15.0
+1104-0000,35.0,No,1.0,3.0,3.0
+1104-0000,36.0,Yes,3.0,5.0,15.0
+1104-0000,37.0,No,1.0,5.0,5.0
+1104-0000,38.0,No,1.0,3.0,3.0
+1104-0000,39.0,No,3.0,6.0,18.0
+1104-0000,40.1,,,,
+1104-0000,40.2,,,,
+1104-0000,40.3,Yes,,,
+1104-0000,40.4,,,,
+1104-0000,40.5,Yes,,,
+1104-0000,41.0,"Point of clarification: We opted for use of waivers at beginning of the program but have not used any to date; We have a participating ACO that uses the SNF waiver and found it too confusing to use both- Until we find a reliable means to identify the BPCIA beneficiary during the anchor stay, we will not be using the waivers. Additionally, our limited ability to reliable identify BPCIA beneficiaries during the anchor stay has caused our cautious approach.",,,
+1104-0000,42.0,Yes,1.0,3.0,3.0
+1104-0000,43.0,Yes,1.0,7.0,7.0
+1104-0000,44.0,Yes,1.0,5.0,5.0
+1104-0000,45.0,"The Geisinger system Population Health Service line administrates the BPCIA program. IF any of the staff exit the SL, the next level of management will determine the replacement(s). All records are kept in a Share-point file.",,,
+1104-0000,46.1,,,,
+1104-0000,46.2,,,,
+1104-0000,46.3,Yes,,,
+1104-0000,46.4,,,,
+1104-0000,46.5,,,,
+1104-0000,47.0,,,,
+1104-0000,48.0,Yes,1.0,7.0,7.0
+1104-0000,49.0,,,,
+1104-0000,50.0,No,1.0,5.0,5.0
+1104-0000,51.0,,,,
+1104-0000,52.0,No,3.0,4.0,12.0
+1104-0000,53.0,No,1.0,4.0,4.0
+1104-0000,54.0,,,,
+1104-0000,55.0,Yes,1.0,6.0,6.0
+1104-0000,56.0,We rely on the compliance plan processes in place to assist us in identifying any related issues. We had this compliance in place during BPCI classic and now with the Advanced model years as well.,,,
+1104-0000,57.0,Yes; using existing system,1.0,7.0,7.0
+1104-0000,58.0,Agree,1.0,7.0,7.0
+1104-0000,59.0,No,1.0,4.0,4.0
+1104-0000,60.1,,,,
+1104-0000,60.2,,,,
+1104-0000,60.3,,,,
+1104-0000,60.4,,,,
+1104-0000,60.5,,,,
+1104-0000,60.6,,,,
+1104-0000,60.7,,,,
+1104-0000,60.8,Yes,,,
+1104-0000,61.0,Yes,1.0,7.0,7.0
+1104-0000,62.0,None identified.,,,
+1104-0000,63.0,Yes,1.0,7.0,7.0
+1104-0000,64.0,No,1.0,7.0,7.0
+1104-0000,65.0,"We are participating in the ACO program which causes redundancy and at times some confusion. For example, the ACO qualifies the system as an APM and is required to submit signed documents by Providers related to QPP. Now we must do the same for BPCIA. Also, the SNF waiver process has been very different and since we establish that at least half of the Bundles beneficiaries are also tied to ACO we have elected not to use the waiver.",,,

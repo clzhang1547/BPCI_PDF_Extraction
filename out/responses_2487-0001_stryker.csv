@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+2487-0001,0.0,2487-0001,,,
+2487-0001,0.1,Stryker,,,
+2487-0001,1.0,Yes,1.0,4.0,4.0
+2487-0001,2.0,Yes,1.0,4.0,4.0
+2487-0001,3.0,No,1.0,3.0,3.0
+2487-0001,4.0,NA; we didn't have any changes,0.0,7.0,0.0
+2487-0001,5.0,No,1.0,5.0,5.0
+2487-0001,6.0,Unsure,2.0,6.0,12.0
+2487-0001,7.0,Unsure,2.0,4.0,8.0
+2487-0001,8.0,Strongly Agree,1.0,4.0,4.0
+2487-0001,9.0,"Since October 1, 2018, care redesign initiatives have focused on ensuring that patients receive the right care, for the right reason, and for the right period of time during their episode of care.  This has meant assessing preoperative risk to drive optimization prior to surgery as well as purposeful comprehensive patient care management during the post-acute phase.  Care redesign is largely complete but will be ongoing throughout the program.",,,
+2487-0001,10.0,No,1.0,6.0,6.0
+2487-0001,11.0,One of the biggest challenges with implementing care redesign is tracking progress and sharing information with pertinent parties.  Stryker has very successfully put in place systems to track progress in real time while utilizing retrospective claims data to drive actionable improvement.,,,
+2487-0001,12.0,Yes,1.0,3.0,3.0
+2487-0001,13.0,No,1.0,3.0,3.0
+2487-0001,14.0,NA,,,
+2487-0001,15.0,Yes,1.0,7.0,7.0
+2487-0001,16.0,Yes,1.0,7.0,7.0
+2487-0001,17.0,Yes,1.0,7.0,7.0
+2487-0001,18.0,"One recent challenge with regard to executing agreements within Stryker's convener is executing non-financially based agreements with physicians and or non-physician practitioners.  There is very little reason from their perspective to spend their time reviewing, making potential changes to, and executing an agreement of this nature.  When an episode initiator is a hospital who has chosen not to gainshare financially downstream but is now required as of Q4 2019 to have non-financial participation agreements in place, it is very burdensome.",,,
+2487-0001,19.0,NA: System already in place before this model,0.0,7.0,0.0
+2487-0001,20.0,Yes,3.0,5.0,15.0
+2487-0001,21.0,Yes,3.0,3.0,9.0
+2487-0001,22.0,Yes,1.0,7.0,7.0
+2487-0001,23.0,,,,
+2487-0001,24.0,Yes,1.0,7.0,7.0
+2487-0001,25.0,,,,
+2487-0001,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+2487-0001,27.0,"As far as Stryker is concerned, financial arrangements and the ability to share savings is key to the success of bundled payment models.  It allows pertinent parties to align around shared vision and goals.",,,
+2487-0001,28.0,No,1.0,5.0,5.0
+2487-0001,29.0,NA; we don't participate in ICS Sharing,0.0,7.0,0.0
+2487-0001,30.0,Yes,3.0,5.0,15.0
+2487-0001,31.0,NA; not requiring shared repayments by partners,0.0,7.0,0.0
+2487-0001,32.0,,,,
+2487-0001,33.0,In progress,2.0,7.0,14.0
+2487-0001,34.0,Yes,3.0,5.0,15.0
+2487-0001,35.0,No,1.0,3.0,3.0
+2487-0001,36.0,Yes,3.0,5.0,15.0
+2487-0001,37.0,Yes,3.0,5.0,15.0
+2487-0001,38.0,No,1.0,3.0,3.0
+2487-0001,39.0,Yes,1.0,6.0,6.0
+2487-0001,40.1,,,,
+2487-0001,40.2,Yes,,,
+2487-0001,40.3,,,,
+2487-0001,40.4,,,,
+2487-0001,40.5,,,,
+2487-0001,41.0,,,,
+2487-0001,42.0,Yes,1.0,3.0,3.0
+2487-0001,43.0,Yes,1.0,7.0,7.0
+2487-0001,44.0,Yes,1.0,5.0,5.0
+2487-0001,45.0,"Stryker is a large BPCI Advanced convener and Performance Solutions has an impressive team of subject matter experts and consultants devoted solely to BPCI Advanced. When combined with our actuarial and analytics team, Stryker has approximately 60 staff members devoted to the program.  Succession planning is not an issue.",,,
+2487-0001,46.1,,,,
+2487-0001,46.2,Yes,,,
+2487-0001,46.3,Yes,,,
+2487-0001,46.4,,,,
+2487-0001,46.5,Yes,,,
+2487-0001,47.0,"Most PGPs in Stryker's convener have chosen to provide a paper copy of the beneficiary notification form to patients in a pre-op educational packet prior to surgery.  Beneficiary notification is also provided electronically via RecoveryCOACH, Stryker's web based patient engagement and care management platform.",,,
+2487-0001,48.0,Yes,1.0,7.0,7.0
+2487-0001,49.0,,,,
+2487-0001,50.0,No,1.0,5.0,5.0
+2487-0001,51.0,,,,
+2487-0001,52.0,No,3.0,4.0,12.0
+2487-0001,53.0,No,1.0,4.0,4.0
+2487-0001,54.0,,,,
+2487-0001,55.0,Yes,1.0,6.0,6.0
+2487-0001,56.0,"Medicare claims provided are monitored monthly for trends including readmission rates, emergency room use (diagnosis, day of the week, etc.), and complications.  If a negative trend is identified, the information is communicated back to all parties so that an action plan can be put into place. Episode initiators are routinely reminded that insufficient care may lead to higher cost and that the right care at the right time typically leads to cost reduction.",,,
+2487-0001,57.0,In progress,2.0,7.0,14.0
+2487-0001,58.0,,,,
+2487-0001,59.0,No,1.0,4.0,4.0
+2487-0001,60.1,,,,
+2487-0001,60.2,,,,
+2487-0001,60.3,,,,
+2487-0001,60.4,,,,
+2487-0001,60.5,,,,
+2487-0001,60.6,,,,
+2487-0001,60.7,,,,
+2487-0001,60.8,Yes,,,
+2487-0001,61.0,Yes,1.0,7.0,7.0
+2487-0001,62.0,"- New templates are provided by CMS every quarter for quarterly deliverables with little to no noticeable change- Documents have to be submitted quarterly regardless of whether there is no change from the previous submission- There is typically very little time given to complete a large set of deliverables.  This questionnaire is an example of that.  We have 2 weeks to submit the questionnaire and 3 corresponding documents for 70+ episode initiators, all with separate BPIDs and participation agreements.",,,
+2487-0001,63.0,Yes,1.0,7.0,7.0
+2487-0001,64.0,No,1.0,7.0,7.0
+2487-0001,65.0,,,,

@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+2605-0000,0.0,2605-0000,,,
+2605-0000,0.1,The Regents of the University of Michigan,,,
+2605-0000,1.0,Yes,1.0,4.0,4.0
+2605-0000,2.0,Yes,1.0,4.0,4.0
+2605-0000,3.0,No,1.0,3.0,3.0
+2605-0000,4.0,NA; we didn't have any changes,0.0,7.0,0.0
+2605-0000,5.0,No,1.0,5.0,5.0
+2605-0000,6.0,Unsure,2.0,6.0,12.0
+2605-0000,7.0,Unsure,2.0,4.0,8.0
+2605-0000,8.0,Strongly Agree,1.0,4.0,4.0
+2605-0000,9.0,"Michigan Medicine continues to pursue sharing unblinded provider-level data with providers and teams in a variety of settings. Specifically related to BPCI Advanced, Michigan Medicine has started sharing unblinded discharge disposition data with surgeons in order to identify outliers and change culture around discharge disposition. There is interest in sharing similar data with Hospital Medicine physicians in order to impact discharge disposition for medical bundles as well. Michigan Medicine continues to pursue internal cost accounting. Cost drivers have been identified through close observations and time studies, and labor and supply costs are currently being validated. Costing reports have been developed for a select number of conditions, and data will be live for the entire institution in early 2020. Michigan Medicine is still in the pilot phase for collecting Patient-Reported Outcomes Measures (PROMs) with Orthopedic Surgery. Michigan Medicine still plan to roll out this process to the entire institution with generic PROM questionnaires, but the process has been delayed due to a change in physician champion.",,,
+2605-0000,10.0,No,1.0,6.0,6.0
+2605-0000,11.0,"The challenges of implementing care redesign interventions at Michigan Medicine are often related to the pace of implementation. Michigan Medicine is a large, integrated health system and we implement interventions in a payer-agnostic manner. This results in more sustainable and meaningful interventions, but takes time to implement across diverse patient populations and departments. BPCI Advanced has proven to be a good platform from which to encourage change, giving Michigan Medicine a concrete set of conditions/surgeries for which to pilot certain interventions. For example, we have implemented Pharmacy Transition of Care calls for all Sepsis discharges, regardless of a patient's LACE score. Additionally, we have enhanced engagement from clinical champions, which leads to an interest in sharing data and setting goals for improvement.",,,
+2605-0000,12.0,Yes,1.0,3.0,3.0
+2605-0000,13.0,No,1.0,3.0,3.0
+2605-0000,14.0,,,,
+2605-0000,15.0,NA; we are a Non-Convener Participant,0.0,7.0,0.0
+2605-0000,16.0,No,3.0,7.0,21.0
+2605-0000,17.0,No,3.0,7.0,21.0
+2605-0000,18.0,"Michigan Medicine signed the Amendment in June 2019, making it a requirement to submit a QPP list. We began collecting signed agreements from Participating Practitioners at that point, and have successfully submitted a QPP list with those who have signed agreements. We are pursuing obtaining written agreements from the remainder of providers who have engaged in BPCI Advanced activities, and are partnering with each Clinical Department to stress the importance of obtaining written agreements from the impacted providers. This is a new process for Michigan Medicine, and we have engaged Executive leadership to move the process along as quickly as possible.",,,
+2605-0000,19.0,NA: System already in place before this model,0.0,7.0,0.0
+2605-0000,20.0,NA; never participated in financial arrangements,0.0,5.0,0.0
+2605-0000,21.0,Unsure,2.0,3.0,6.0
+2605-0000,22.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+2605-0000,23.0,,,,
+2605-0000,24.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+2605-0000,25.0,,,,
+2605-0000,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+2605-0000,27.0,"Michigan Medicine opted not to establish Financial Arrangements for BPCI Advanced upfront for a number of reasons, including the administrative and compliance burden of collecting NPRA sharing contracts and distributing shared savings. Additionally, we have sharing agreements in place for other large Medicare demonstration programs, including the Oncology Care Model and the Medicare Shared Savings Program and did not want to introduce another layer of complexity.",,,
+2605-0000,28.0,No,1.0,5.0,5.0
+2605-0000,29.0,NA; we don't participate in ICS Sharing,0.0,7.0,0.0
+2605-0000,30.0,No,1.0,5.0,5.0
+2605-0000,31.0,NA; not requiring shared repayments by partners,0.0,7.0,0.0
+2605-0000,32.0,,,,
+2605-0000,33.0,Yes,1.0,7.0,7.0
+2605-0000,34.0,No,1.0,5.0,5.0
+2605-0000,35.0,NA; we don't use Fraud and Abuse Waivers,0.0,3.0,0.0
+2605-0000,36.0,No,1.0,5.0,5.0
+2605-0000,37.0,NA; we don't use MPP Waivers,0.0,5.0,0.0
+2605-0000,38.0,NA; we don't use MPP Waivers,0.0,3.0,0.0
+2605-0000,39.0,NA; not using any of the waivers,0.0,6.0,0.0
+2605-0000,40.1,,,,
+2605-0000,40.2,,,,
+2605-0000,40.3,Yes,,,
+2605-0000,40.4,,,,
+2605-0000,40.5,,,,
+2605-0000,41.0,,,,
+2605-0000,42.0,Yes,1.0,3.0,3.0
+2605-0000,43.0,Yes,1.0,7.0,7.0
+2605-0000,44.0,Yes,1.0,5.0,5.0
+2605-0000,45.0,"The majority of Michigan Medicine's value-based payment models are now managed in the Quality Department, including BPCI Advanced. The Senior Director for Quality and the Chief Quality Officer will identify Quality Department staff to replace an individual who manages a particular program if he or she departs the organization. If an identified physician champion departs the organization, the BPCI Advanced Steering Committee would determine a replacement from the relevant Clinical Department.",,,
+2605-0000,46.1,,,,
+2605-0000,46.2,,,,
+2605-0000,46.3,Yes,,,
+2605-0000,46.4,,,,
+2605-0000,46.5,,,,
+2605-0000,47.0,,,,
+2605-0000,48.0,Yes,1.0,7.0,7.0
+2605-0000,49.0,,,,
+2605-0000,50.0,Yes,3.0,5.0,15.0
+2605-0000,51.0,"The two main concerns from patients are the complex language used on the CMS-provided Beneficiary Notification letter, and the fear of additional cost-sharing related to participating in the program. Michigan Medicine has provided scripting to the care management staff who distribute the letters, and this has largely mitigated any negative feedback.",,,
+2605-0000,52.0,Yes,1.0,4.0,4.0
+2605-0000,53.0,No,1.0,4.0,4.0
+2605-0000,54.0,"As a result of BPCI Advanced, there is an increased interest in reducing readmissions. While there has always been interest in this utilization measure from a patient outcomes and capacity management perspective, BPCI Advanced has added another financial benefit to impacting this measure beyond the other total cost of care programs in which we participate. Additionally, sharing data and increased messaging around appropriate post-acute utilization have changed culture around discharge disposition (e.g., discharging patients to home rather than a SNF) across the organization.",,,
+2605-0000,55.0,No,3.0,6.0,18.0
+2605-0000,56.0,"Michigan Medicine is acutely aware of the need to develop processes to identify unique risks attendant with BPCI-A participation.  We will be working to develop processes to monitor for these and other risks that could adversely impact BPCI-A beneficiaries.  We do note that Michigan Medicine maintains a robust compliance plan and we believe that many of the protections expressly stated in that compliance plan assure that BPCI beneficiaries receive medically necessary, timely, appropriate care.",,,
+2605-0000,57.0,Yes; using existing system,1.0,7.0,7.0
+2605-0000,58.0,Agree,1.0,7.0,7.0
+2605-0000,59.0,No,1.0,4.0,4.0
+2605-0000,60.1,,,,
+2605-0000,60.2,,,,
+2605-0000,60.3,,,,
+2605-0000,60.4,,,,
+2605-0000,60.5,,,,
+2605-0000,60.6,,,,
+2605-0000,60.7,,,,
+2605-0000,60.8,Yes,,,
+2605-0000,61.0,Yes,1.0,7.0,7.0
+2605-0000,62.0,,,,
+2605-0000,63.0,No,3.0,7.0,21.0
+2605-0000,64.0,No,1.0,7.0,7.0
+2605-0000,65.0,,,,

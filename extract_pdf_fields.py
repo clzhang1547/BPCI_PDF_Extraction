@@ -187,6 +187,9 @@ class ExtractPdfFields:
                                 pass
                             content = content.lstrip('/')
                             response = self._parse_response(content, row[1])
+                            # if checkbox, force all non-Yes answer to '' (weird Off generated when parsing empty box)
+                            if key[:8]=='CheckBox' and response!='Yes':
+                                response=''
                             row += [response]
                         else:
                             radio_button_code = val['/V'].lstrip('/')
@@ -287,7 +290,7 @@ class ExtractPdfFields:
                 org = org.replace(char, '-')
         bpci = self.bpci_id.lower().strip()
         # Begin with the response file name without extension.
-        out = self._out_file_path + '/responses_' + org + '_' + bpci
+        out = self._out_file_path + '/responses_' + bpci + '_' + org
         # Write responses to XLSX.
         self.response_data.to_excel(out + '.xlsx', index=False)
         # Write responses to CSV.
@@ -311,8 +314,8 @@ class ExtractPdfFields:
                 writer = csv.writer(f)
                 writer.writerow([org, bpci])
         # Begin with the raw response file name without extension.
-        out = self._out_file_path + '/responses_raw_' + org
-        out += '_' + self.bpci_id.lower().strip()
+        out = self._out_file_path + '/responses_raw_' + self.bpci_id.lower().strip()
+        out += '_' + org
         # Write responses to XLSX.
         self.response_data_raw.to_excel(out + '.xlsx', index=False)
         # Write responses to CSV.
@@ -362,7 +365,7 @@ class ExtractPdfFields:
     def response_data_raw(self):
         return self._response_data_raw
 
-
+#
 # def main():
 #     """
 #     Parameters: None

@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+2594-0000,0.0,2594-0000,,,
+2594-0000,0.1,The Hospital of Central Connecticut,,,
+2594-0000,1.0,Yes,1.0,4.0,4.0
+2594-0000,2.0,No,3.0,4.0,12.0
+2594-0000,3.0,No,1.0,3.0,3.0
+2594-0000,4.0,NA; we didn't have any changes,0.0,7.0,0.0
+2594-0000,5.0,No,1.0,5.0,5.0
+2594-0000,6.0,No,1.0,6.0,6.0
+2594-0000,7.0,No,1.0,4.0,4.0
+2594-0000,8.0,Agree,1.0,4.0,4.0
+2594-0000,9.0,"Clinical documentation work flow has been enhanced within the electronic health record (standard pathways).  This includes enhancements to the Emergency Department, Inpatient care unit, as well as with a joint venture urgent care provider.    The creation of an IT report detailing daily census and identification of HF bundle patients has increased the efficiency for the HF Navigator, consulting cardiologists and care teams around medication reconciliation processes and patient care transitions.",,,
+2594-0000,10.0,No,1.0,6.0,6.0
+2594-0000,11.0,"Successes:* active interdisciplinary readmission committee activated* development of an urgent care vs. emergency department strategy* partnership with post-acute (SNF and home care) partners with active HF programs to share best practice and clinical pathways* palliative care council enhanced work around advance care planning measureBarrier:* initially difficult to engage around ACP in the community environment for patients, but this has been a strong focus area for the team and hospital",,,
+2594-0000,12.0,Yes,1.0,3.0,3.0
+2594-0000,13.0,No,1.0,3.0,3.0
+2594-0000,14.0,No challenges with this requirement,,,
+2594-0000,15.0,NA; we are a Non-Convener Participant,0.0,7.0,0.0
+2594-0000,16.0,No,3.0,7.0,21.0
+2594-0000,17.0,No,3.0,7.0,21.0
+2594-0000,18.0,"We do  not have financial arrangements with any clinicians associated with our bundle.  Unclear direction from CMS on the requirement to have a Participating Practitioner Agreement for non FAL practitioners. QPP requirement is unclear. We did not sign the amendment, thus, were not required to provide a QPP list, nor do we have financial sharing. Yet, we were told to submit a list.",,,
+2594-0000,19.0,Partial; establishing accounting system,2.0,7.0,14.0
+2594-0000,20.0,NA; never participated in financial arrangements,0.0,5.0,0.0
+2594-0000,21.0,Unsure,2.0,3.0,6.0
+2594-0000,22.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+2594-0000,23.0,future opportunity with partnering providers,,,
+2594-0000,24.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+2594-0000,25.0,future opportunity with partner providers,,,
+2594-0000,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+2594-0000,27.0,"Hospital will bear the full risk associated with the episode in the current performance year.  We are reviewing opportunities for gain sharing, but most provider groups are not willing to share in potential losses around the episode",,,
+2594-0000,28.0,No,1.0,5.0,5.0
+2594-0000,29.0,---,,,
+2594-0000,30.0,No,1.0,5.0,5.0
+2594-0000,31.0,---,,,
+2594-0000,32.0,"Currently NA, however our system is part of the CJR program and once gain sharing is viable, we will follow the same compliance plan for BPCI-A as adhered to within CJR",,,
+2594-0000,33.0,No; not started,3.0,7.0,21.0
+2594-0000,34.0,No,1.0,5.0,5.0
+2594-0000,35.0,NA; we don't use Fraud and Abuse Waivers,0.0,3.0,0.0
+2594-0000,36.0,No,1.0,5.0,5.0
+2594-0000,37.0,---,,,
+2594-0000,38.0,NA; we don't use MPP Waivers,0.0,3.0,0.0
+2594-0000,39.0,NA; not using any of the waivers,0.0,6.0,0.0
+2594-0000,40.1,,,,
+2594-0000,40.2,,,,
+2594-0000,40.3,,,,
+2594-0000,40.4,,,,
+2594-0000,40.5,,,,
+2594-0000,41.0,,,,
+2594-0000,42.0,Yes,1.0,3.0,3.0
+2594-0000,43.0,Yes,1.0,7.0,7.0
+2594-0000,44.0,Yes,1.0,5.0,5.0
+2594-0000,45.0,"There are three identified representatives within the organization who have advanced knowledge around the BPCI-A program and the CMS program requirements.  This organization is also contracted with an organization to assist with regulatory adherence to CMS programming (CJR, BPCI-A) who would be able to provide additional support in the event of the need for a succession plan activation",,,
+2594-0000,46.1,,,,
+2594-0000,46.2,,,,
+2594-0000,46.3,Yes,,,
+2594-0000,46.4,,,,
+2594-0000,46.5,,,,
+2594-0000,47.0,,,,
+2594-0000,48.0,Yes,1.0,7.0,7.0
+2594-0000,49.0,,,,
+2594-0000,50.0,No,1.0,5.0,5.0
+2594-0000,51.0,,,,
+2594-0000,52.0,Yes,1.0,4.0,4.0
+2594-0000,53.0,No,1.0,4.0,4.0
+2594-0000,54.0,"Participation in the bundle has reinvigorated various operational and clinical committees and has served as a catalyst to build a Preferred Provider Network of SNF facilities focusing on heart failure programming and centered on clinical guidelines and other cost and quality measures.  While all beneficiaries receive choice regarding post-acute care providers if needed, the hospital educates all patients around the HF episodic management program and the benefits of choosing SNFs and Home Care agencies with clinical programming in place to best meet their clinical needs.",,,
+2594-0000,55.0,No,3.0,6.0,18.0
+2594-0000,56.0,,,,
+2594-0000,57.0,Yes; using existing system,1.0,7.0,7.0
+2594-0000,58.0,Agree,1.0,7.0,7.0
+2594-0000,59.0,No,1.0,4.0,4.0
+2594-0000,60.1,,,,
+2594-0000,60.2,,,,
+2594-0000,60.3,,,,
+2594-0000,60.4,,,,
+2594-0000,60.5,,,,
+2594-0000,60.6,,,,
+2594-0000,60.7,,,,
+2594-0000,60.8,Yes,,,
+2594-0000,61.0,Yes,1.0,7.0,7.0
+2594-0000,62.0,Portal - received an error message for last upload while simulataneoulsy was shown message that upload was successful; Uploaded complete documents and then received an email stating it was not completed.,,,
+2594-0000,63.0,Yes,1.0,7.0,7.0
+2594-0000,64.0,No,1.0,7.0,7.0
+2594-0000,65.0,NA,,,

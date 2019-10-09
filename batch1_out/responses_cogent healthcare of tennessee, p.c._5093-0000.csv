@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+5093-0000,0.0,5093-0000,,,
+5093-0000,0.1,"Cogent Healthcare of Tennessee, P.C.",,,
+5093-0000,1.0,Yes,1.0,4.0,4.0
+5093-0000,2.0,Yes,1.0,4.0,4.0
+5093-0000,3.0,No,1.0,3.0,3.0
+5093-0000,4.0,NA; we didn't have any changes,0.0,7.0,0.0
+5093-0000,5.0,Yes,3.0,5.0,15.0
+5093-0000,6.0,Unsure,2.0,6.0,12.0
+5093-0000,7.0,Unsure,2.0,4.0,8.0
+5093-0000,8.0,Strongly Agree,1.0,4.0,4.0
+5093-0000,9.0,"With much of our care redesign already in place prior to the launch of BPCIA, our high priorities were limited to the introduction of telehealth, patient level coordination with PCPs, and clinical and administrative staff engagement.  All three of these initiatives are launched within a portion of our at risk sites with plans for expansion. We feel well on our way to achieving these high priority goals as intended.",,,
+5093-0000,10.0,No,1.0,6.0,6.0
+5093-0000,11.0,No challenges to report.  We have had increased success at implementing our care redesign interventions at new sites thanks to a streamlined new site implementation process that heavily focuses on the fundamentals of BPCIA.,,,
+5093-0000,12.0,Yes,1.0,3.0,3.0
+5093-0000,13.0,No,1.0,3.0,3.0
+5093-0000,14.0,NA,,,
+5093-0000,15.0,NA; we are a Non-Convener Participant,0.0,7.0,0.0
+5093-0000,16.0,Yes,1.0,7.0,7.0
+5093-0000,17.0,Yes,1.0,7.0,7.0
+5093-0000,18.0,NA,,,
+5093-0000,19.0,Yes,1.0,7.0,7.0
+5093-0000,20.0,NA; never participated in financial arrangements,0.0,5.0,0.0
+5093-0000,21.0,Unsure,2.0,3.0,6.0
+5093-0000,22.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+5093-0000,23.0,,,,
+5093-0000,24.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+5093-0000,25.0,,,,
+5093-0000,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+5093-0000,27.0,NA,,,
+5093-0000,28.0,No,1.0,5.0,5.0
+5093-0000,29.0,NA; we don't participate in ICS Sharing,0.0,7.0,0.0
+5093-0000,30.0,No,1.0,5.0,5.0
+5093-0000,31.0,NA; not requiring shared repayments by partners,0.0,7.0,0.0
+5093-0000,32.0,,,,
+5093-0000,33.0,Yes,1.0,7.0,7.0
+5093-0000,34.0,Yes,3.0,5.0,15.0
+5093-0000,35.0,No,1.0,3.0,3.0
+5093-0000,36.0,Yes,3.0,5.0,15.0
+5093-0000,37.0,NA; we don't use MPP Waivers,0.0,5.0,0.0
+5093-0000,38.0,NA; we don't use MPP Waivers,0.0,3.0,0.0
+5093-0000,39.0,NA; not using any of the waivers,0.0,6.0,0.0
+5093-0000,40.1,,,,
+5093-0000,40.2,,,,
+5093-0000,40.3,Yes,,,
+5093-0000,40.4,,,,
+5093-0000,40.5,,,,
+5093-0000,41.0,,,,
+5093-0000,42.0,Yes,1.0,3.0,3.0
+5093-0000,43.0,Yes,1.0,7.0,7.0
+5093-0000,44.0,Yes,1.0,5.0,5.0
+5093-0000,45.0,"In the event a manager departs the organization, the individuals senior manager will oversee all implementation duties in the interim. The senior manager will remove all access for the manager that departed the organization and will update any contact information as necessary. The senior manager will meet with the team involved in the implementation of the BPC Advanced Model to confirm if all deliverables and implementation are on track until an individual is hired and trained.",,,
+5093-0000,46.1,,,,
+5093-0000,46.2,Yes,,,
+5093-0000,46.3,,,,
+5093-0000,46.4,,,,
+5093-0000,46.5,,,,
+5093-0000,47.0,,,,
+5093-0000,48.0,Yes,1.0,7.0,7.0
+5093-0000,49.0,,,,
+5093-0000,50.0,Yes,3.0,5.0,15.0
+5093-0000,51.0,"The initial CMS Beneficiary Notification letter contained our organization  phone number where the beneficiary can call if they had any questions. The theme of the questions we received are :- Beneficiary did not understand the letter and the initiative with Medicare - Beneficiaries wanted to know if there was this an an additional cost to them - Some beneficiaries reported, that when speaking with someone at Medicare to get more information about the model, the person with Medicare were not aware of the initiative.",,,
+5093-0000,52.0,Unsure,2.0,4.0,8.0
+5093-0000,53.0,Unsure,2.0,4.0,8.0
+5093-0000,54.0,,,,
+5093-0000,55.0,Yes,1.0,6.0,6.0
+5093-0000,56.0,"Sound has developed a data analytic platform and clinical integration strategy to monitor and mitigate unintended consequences for our BPCIA patients.  We have developed an IT platform to collect data on each patient participating in the BPCIA program to monitor their next site of care, readmissions (all NSOC locations and root cause DRGs), SNF length of stay, SNF readmissions, use of high quality network agencies and facilities, and alignment with patient clinical desires of care with advance care planning.  We use our analytics to evaluate the outcomes of our patients in order to adjust our future interventions involving our physicians, nurses, care coordinating team, outpatient resources, and etc.  Our clinical team evaluates our patient care while in the acute setting and in the post acute setting for a 90 day window.  We have nurses, physicians, and care coordinators that link the care in the acute to the post acute setting to mitigate and monitor outcomes and possible unintended consequences.  This care team is integrated into our data and communication platforms to help drive performance and outcomes for each of our patients.",,,
+5093-0000,57.0,Yes; using existing system,1.0,7.0,7.0
+5093-0000,58.0,Agree,1.0,7.0,7.0
+5093-0000,59.0,Unsure,2.0,4.0,8.0
+5093-0000,60.1,,,,
+5093-0000,60.2,,,,
+5093-0000,60.3,,,,
+5093-0000,60.4,,,,
+5093-0000,60.5,,,,
+5093-0000,60.6,,,,
+5093-0000,60.7,,,,
+5093-0000,60.8,Yes,,,
+5093-0000,61.0,Yes,1.0,7.0,7.0
+5093-0000,62.0,"We have many active BPIDs as a participant. We have noticed that we do not receive all the notifications from CMS for each participant via email, whether it be general notifications, updates, or action items that are due in specific time-frame.  Due to this, we would need to check each BPID to make sure that the ""Action Item"" notifications pertain to one or all. In this case, we received ACQ action items for 10 BPIDs, out of 78, but in reviewing the portal we need to submit for all 78 BPIDs.",,,
+5093-0000,63.0,Yes,1.0,7.0,7.0
+5093-0000,64.0,No,1.0,7.0,7.0
+5093-0000,65.0,,,,

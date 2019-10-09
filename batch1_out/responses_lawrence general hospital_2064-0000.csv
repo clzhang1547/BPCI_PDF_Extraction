@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+2064-0000,0.0,2064-0000,,,
+2064-0000,0.1,Lawrence General Hospital,,,
+2064-0000,1.0,Yes,1.0,4.0,4.0
+2064-0000,2.0,Yes,1.0,4.0,4.0
+2064-0000,3.0,No,1.0,3.0,3.0
+2064-0000,4.0,---,,,
+2064-0000,5.0,No,1.0,5.0,5.0
+2064-0000,6.0,Unsure,2.0,6.0,12.0
+2064-0000,7.0,Yes,3.0,4.0,12.0
+2064-0000,8.0,,,,
+2064-0000,9.0,"Two high-priority elements of our care design included development of episode-specific clinical pathways and improving clinical decision support for BPCI-A activities with in our new EMR (launched 5/1/2019).  We have developed clinical pathways for our newest clinical episodes within BPCI-A, most notably for patients with cellulitis, collaborating closely with our Infectious Disease specialist to ensure these patients are on the appropriate antibiotics and have close medical follow-up after discharge from the hospital to prevent re-hospitalizations.  We have strengthened clinical pathways built in BPCI Model 2 for patients with CHF which now serves as the standard of care for all patients with CHF admitted to our hospital.  Optimization of our new EMR includes implementation of the LACE tool to assess risk for readmission in all patients and hardwiring tracking codes for advanced care planning.",,,
+2064-0000,10.0,No,1.0,6.0,6.0
+2064-0000,11.0,"Closer alignment with the Infectious Disease specialist has led to fewer readmissions within clinical episodes for cellulitis.  However, when a patient's cellulitis is related to opioid use disorder (OUD) and despite robust efforts to improve initiation and engagement in treatment for OUD, these patients often leave against medical advice and readmit to the hospital.  In clinical episodes for GI Hemorrhage our team reports that patients are often taking anticoagulants and that these typically contribute to and often complicate GI Hemorrhage, creating challenges for management throughout the episode.  Finally, our team is most proud of outcomes achieved after managing clinical episodes for CHF since 2015, namely reducing readmissions to LGH from 22% in 2017 to 20% in 2018 and17% in 2019 to-date.",,,
+2064-0000,12.0,Yes,1.0,3.0,3.0
+2064-0000,13.0,No,1.0,3.0,3.0
+2064-0000,14.0,,,,
+2064-0000,15.0,NA; we are a Non-Convener Participant,0.0,7.0,0.0
+2064-0000,16.0,Yes,1.0,7.0,7.0
+2064-0000,17.0,Yes,1.0,7.0,7.0
+2064-0000,18.0,LGH has not met any challenges to implementing processes and procedures to monitor agreements with participating practitioners (i.e. our employed physicians) and in establishing an agreement with our one NPRA Sharing Partner.,,,
+2064-0000,19.0,NA: System already in place before this model,0.0,7.0,0.0
+2064-0000,20.0,Yes,3.0,5.0,15.0
+2064-0000,21.0,Yes,3.0,3.0,9.0
+2064-0000,22.0,Yes,1.0,7.0,7.0
+2064-0000,23.0,,,,
+2064-0000,24.0,Yes,1.0,7.0,7.0
+2064-0000,25.0,,,,
+2064-0000,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+2064-0000,27.0,,,,
+2064-0000,28.0,No,1.0,5.0,5.0
+2064-0000,29.0,---,,,
+2064-0000,30.0,Yes,3.0,5.0,15.0
+2064-0000,31.0,NA; not requiring shared repayments by partners,0.0,7.0,0.0
+2064-0000,32.0,,,,
+2064-0000,33.0,Yes,1.0,7.0,7.0
+2064-0000,34.0,Yes,3.0,5.0,15.0
+2064-0000,35.0,No,1.0,3.0,3.0
+2064-0000,36.0,Yes,3.0,5.0,15.0
+2064-0000,37.0,No,1.0,5.0,5.0
+2064-0000,38.0,No,1.0,3.0,3.0
+2064-0000,39.0,Yes,1.0,6.0,6.0
+2064-0000,40.1,,,,
+2064-0000,40.2,,,,
+2064-0000,40.3,,,,
+2064-0000,40.4,,,,
+2064-0000,40.5,,,,
+2064-0000,41.0,"We elected to use all waivers but have not been able to operationalize all waivers for various reasons.  For example, the Home Visit Waiver only allows for a participant-employed provider to conduct a post-discharge home visit.  The providers we work with who could conduct a home visit are not employed by the hospital, so we have not been able to operationalize this waiver.  We have experience utilizing the SNF waiver in other alternative payment models but have not needed to utilize it for any of the patients within our BPCI-A program since 10/2018.  To-date we have explored but not operationalized any telehealth program that could be utilized under the Telehealth waiver.",,,
+2064-0000,42.0,Yes,1.0,3.0,3.0
+2064-0000,43.0,Yes,1.0,7.0,7.0
+2064-0000,44.0,Yes,1.0,5.0,5.0
+2064-0000,45.0,"Our BPCI-A team is small, consisting of the Director of Population Health, Director of Integrated Care, two dedicated RN Care Managers, and the Medical Director of Population Health.  Our extended team consists of a PT Care Manager who follows patients in SNFs and the Palliative Care team, Case Managers, Clinical Care Coordinators, Hospitalists and other clinicians and hospital leaders.  We experienced turnover within this team during participation in BPCI Model 2 and were successful at onboarding new team members to our documented processes through 1:1 training and participation in working group meetings focused on readmissions, quality, and population health.",,,
+2064-0000,46.1,,,,
+2064-0000,46.2,,,,
+2064-0000,46.3,,,,
+2064-0000,46.4,,,,
+2064-0000,46.5,,,,
+2064-0000,47.0,,,,
+2064-0000,48.0,Yes,1.0,7.0,7.0
+2064-0000,49.0,,,,
+2064-0000,50.0,No,1.0,5.0,5.0
+2064-0000,51.0,,,,
+2064-0000,52.0,No,3.0,4.0,12.0
+2064-0000,53.0,No,1.0,4.0,4.0
+2064-0000,54.0,,,,
+2064-0000,55.0,Yes,1.0,6.0,6.0
+2064-0000,56.0,"All patients who could potentially be included in BPCI-A are followed very closely by our RN Care Managers and extended team. We monitor daily patient activity for any readmissions and respond accordingly to understand the drivers of readmission, we case conference several times per week with our preferred VNA (who is also our NPRA Sharing Partner), we participate in multidisciplinary rounds daily to ensure patients are receiving the right care at the right time and have appropriate discharge plans in place, and we meet with patients fact-to-face during their anchor admission to ensure they understand their care, understand any patient teaching, have follow-up appointments scheduled, and have transportation to those follow-up appointments.  Our Palliative Care team is actively engaged to ensure that patients and their families have an opportunity to discuss goals of care and complete advanced care planning paperwork.  Finally, LGH is a mission-driven hospital providing care to an underserved population and is always committed to doing the right thing for each patient, regardless of payment source or arrangement.",,,
+2064-0000,57.0,Yes; using existing system,1.0,7.0,7.0
+2064-0000,58.0,,,,
+2064-0000,59.0,No,1.0,4.0,4.0
+2064-0000,60.1,,,,
+2064-0000,60.2,,,,
+2064-0000,60.3,,,,
+2064-0000,60.4,,,,
+2064-0000,60.5,,,,
+2064-0000,60.6,,,,
+2064-0000,60.7,,,,
+2064-0000,60.8,,,,
+2064-0000,61.0,Yes,1.0,7.0,7.0
+2064-0000,62.0,"Due dates for deliverables can be confusing and notification is not consistently sent to the dedicated person.  For example, notification about this questionnaire indicated that LGH would not be in the first cohort of participants expected to complete and return the questionnaire, but a notice that the questionnaire was past due was then sent to the VP overseeing population health but not the dedicating person within population health.  Also, questions about specific deliverables, most notably the QPP list, were not immediately or clearly answered, creating some confusion and potential delays.",,,
+2064-0000,63.0,Yes,1.0,7.0,7.0
+2064-0000,64.0,No,1.0,7.0,7.0
+2064-0000,65.0,"The greatest challenge has been identification of beneficiaries who will ultimately be included in a given clinical episode.  Final DRGs are not assigned until discharge and working DRGs are not always accurate.  We have had no visibility into which beneficiaries are in an ACO or MSSP arrangement (and thus excluded), and remain unclear about when ESRD does or does not exclude beneficiaries from a clinical episode.  The frustration associated with this, and the daily task of identifying patients, can lead to burnout among members of the team.  A second significant challenge has been that clinical episode volume is much lower than in BPCI Model 2 and much lower than predicted primarily due to the exclusion of beneficiaries involved in an ACO or MSSP, and the proliferation of these programs in the region.  Lower patient volumes in each clinical episode make achievement of savings much more difficult, increase the hospital's risk, and decrease likelihood of continuing in the program.",,,

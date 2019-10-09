@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+1167-0000,0.0,1167-0000,,,
+1167-0000,0.1,INDIANA REGIONAL MEDICAL CENTER,,,
+1167-0000,1.0,No,3.0,4.0,12.0
+1167-0000,2.0,Yes,1.0,4.0,4.0
+1167-0000,3.0,No,1.0,3.0,3.0
+1167-0000,4.0,---,,,
+1167-0000,5.0,No,1.0,5.0,5.0
+1167-0000,6.0,No,1.0,6.0,6.0
+1167-0000,7.0,Unsure,2.0,4.0,8.0
+1167-0000,8.0,Neutral,2.0,4.0,8.0
+1167-0000,9.0,"The clinical leadership development initiative is not on track because our chief medical officer (CMO) resigned during the current year. The interim CMO has limited ability to influence behavior changes.  We have started sharing data; however, not at the level we planned at this point in time due to the implementation of our new EHR.  We are on track with the hiring of the RN After-care Care Coordinator.",,,
+1167-0000,10.0,Yes,3.0,6.0,18.0
+1167-0000,11.0,Unanticipated challenges with the EHR and physician engagement is a concern as well as the RN After-care coordinator focusing on various episodes and not solely sepsis.,,,
+1167-0000,12.0,Yes,1.0,3.0,3.0
+1167-0000,13.0,No,1.0,3.0,3.0
+1167-0000,14.0,,,,
+1167-0000,15.0,---,,,
+1167-0000,16.0,---,,,
+1167-0000,17.0,---,,,
+1167-0000,18.0,,,,
+1167-0000,19.0,Yes,1.0,7.0,7.0
+1167-0000,20.0,NA; never participated in financial arrangements,0.0,5.0,0.0
+1167-0000,21.0,No,1.0,3.0,3.0
+1167-0000,22.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+1167-0000,23.0,,,,
+1167-0000,24.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+1167-0000,25.0,,,,
+1167-0000,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+1167-0000,27.0,,,,
+1167-0000,28.0,No,1.0,5.0,5.0
+1167-0000,29.0,---,,,
+1167-0000,30.0,No,1.0,5.0,5.0
+1167-0000,31.0,NA; not requiring shared repayments by partners,0.0,7.0,0.0
+1167-0000,32.0,,,,
+1167-0000,33.0,Yes,1.0,7.0,7.0
+1167-0000,34.0,No,1.0,5.0,5.0
+1167-0000,35.0,NA; we don't use Fraud and Abuse Waivers,0.0,3.0,0.0
+1167-0000,36.0,No,1.0,5.0,5.0
+1167-0000,37.0,---,,,
+1167-0000,38.0,NA; we don't use MPP Waivers,0.0,3.0,0.0
+1167-0000,39.0,NA; not using any of the waivers,0.0,6.0,0.0
+1167-0000,40.1,,,,
+1167-0000,40.2,,,,
+1167-0000,40.3,,,,
+1167-0000,40.4,,,,
+1167-0000,40.5,,,,
+1167-0000,41.0,,,,
+1167-0000,42.0,Yes,1.0,3.0,3.0
+1167-0000,43.0,No,3.0,7.0,21.0
+1167-0000,44.0,No,3.0,5.0,15.0
+1167-0000,45.0,,,,
+1167-0000,46.1,,,,
+1167-0000,46.2,,,,
+1167-0000,46.3,Yes,,,
+1167-0000,46.4,,,,
+1167-0000,46.5,,,,
+1167-0000,47.0,,,,
+1167-0000,48.0,Yes,1.0,7.0,7.0
+1167-0000,49.0,,,,
+1167-0000,50.0,No,1.0,5.0,5.0
+1167-0000,51.0,,,,
+1167-0000,52.0,No,3.0,4.0,12.0
+1167-0000,53.0,No,1.0,4.0,4.0
+1167-0000,54.0,,,,
+1167-0000,55.0,No,3.0,6.0,18.0
+1167-0000,56.0,,,,
+1167-0000,57.0,Yes; using existing system,1.0,7.0,7.0
+1167-0000,58.0,Agree,1.0,7.0,7.0
+1167-0000,59.0,No,1.0,4.0,4.0
+1167-0000,60.1,,,,
+1167-0000,60.2,,,,
+1167-0000,60.3,,,,
+1167-0000,60.4,,,,
+1167-0000,60.5,,,,
+1167-0000,60.6,,,,
+1167-0000,60.7,,,,
+1167-0000,60.8,Yes,,,
+1167-0000,61.0,Yes,1.0,7.0,7.0
+1167-0000,62.0,,,,
+1167-0000,63.0,No,3.0,7.0,21.0
+1167-0000,64.0,No,1.0,7.0,7.0
+1167-0000,65.0,,,,

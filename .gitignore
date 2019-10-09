@@ -1,11 +1,4 @@
-.idea/
-.tmp
-__pycache__
-code_learn_fields/*
-input/*
-input_example/*
-input_not_processed/*
-out/*
-risk_profile_json_old/*
+.*/
+*.zip
 GUI.spec
 scrap.py

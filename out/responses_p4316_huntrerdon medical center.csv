@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+P4316,0.0,P4316,,,
+P4316,0.1,Huntrerdon Medical Center,,,
+P4316,1.0,Yes,1.0,4.0,4.0
+P4316,2.0,Yes,1.0,4.0,4.0
+P4316,3.0,No,1.0,3.0,3.0
+P4316,4.0,---,,,
+P4316,5.0,No,1.0,5.0,5.0
+P4316,6.0,No,1.0,6.0,6.0
+P4316,7.0,Unsure,2.0,4.0,8.0
+P4316,8.0,Agree,1.0,4.0,4.0
+P4316,9.0,"We have had on going care redesign for our hip fracture patients from the original BPCI program. We have been instituting new protocols for our AMI and CHF patients, especially around trying to identify potential readmissions in the ED.",,,
+P4316,10.0,Yes,3.0,6.0,18.0
+P4316,11.0,"We have struggled with timely identification of bundle patients, particularly with CHF, as these patients often have co-morbidities and it sometime takes our institution a few weeks to finish the DRG assignment.",,,
+P4316,12.0,Unsure,2.0,3.0,6.0
+P4316,13.0,---,,,
+P4316,14.0,I do not know if our inpatient system meets CEHRT requirements,,,
+P4316,15.0,Yes,1.0,7.0,7.0
+P4316,16.0,Yes,1.0,7.0,7.0
+P4316,17.0,No,3.0,7.0,21.0
+P4316,18.0,We have agreements with our physicians. I am unsure as to what monitoring is required.,,,
+P4316,19.0,Yes,1.0,7.0,7.0
+P4316,20.0,Yes,3.0,5.0,15.0
+P4316,21.0,Yes,3.0,3.0,9.0
+P4316,22.0,Yes,1.0,7.0,7.0
+P4316,23.0,,,,
+P4316,24.0,Yes,1.0,7.0,7.0
+P4316,25.0,,,,
+P4316,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+P4316,27.0,"We felt that we needed to get some experience in Bundled Payments as we expect, based on CJR, that it may become mandatory in the future. We have done gainsharing arrangements with our physicians in the past and they have been successful.",,,
+P4316,28.0,No,1.0,5.0,5.0
+P4316,29.0,---,,,
+P4316,30.0,Yes,3.0,5.0,15.0
+P4316,31.0,NA; not requiring shared repayments by partners,0.0,7.0,0.0
+P4316,32.0,,,,
+P4316,33.0,No; not started,3.0,7.0,21.0
+P4316,34.0,Yes,3.0,5.0,15.0
+P4316,35.0,No,1.0,3.0,3.0
+P4316,36.0,Yes,3.0,5.0,15.0
+P4316,37.0,Yes,3.0,5.0,15.0
+P4316,38.0,No,1.0,3.0,3.0
+P4316,39.0,No,3.0,6.0,18.0
+P4316,40.1,,,,
+P4316,40.2,,,,
+P4316,40.3,,,,
+P4316,40.4,Yes,,,
+P4316,40.5,,,,
+P4316,41.0,,,,
+P4316,42.0,Yes,1.0,3.0,3.0
+P4316,43.0,No,3.0,7.0,21.0
+P4316,44.0,No,3.0,5.0,15.0
+P4316,45.0,,,,
+P4316,46.1,,,,
+P4316,46.2,,,,
+P4316,46.3,Yes,,,
+P4316,46.4,,,,
+P4316,46.5,,,,
+P4316,47.0,,,,
+P4316,48.0,Yes,1.0,7.0,7.0
+P4316,49.0,,,,
+P4316,50.0,No,1.0,5.0,5.0
+P4316,51.0,,,,
+P4316,52.0,No,3.0,4.0,12.0
+P4316,53.0,Unsure,2.0,4.0,8.0
+P4316,54.0,,,,
+P4316,55.0,No,3.0,6.0,18.0
+P4316,56.0,,,,
+P4316,57.0,Yes; using existing system,1.0,7.0,7.0
+P4316,58.0,Agree,1.0,7.0,7.0
+P4316,59.0,No,1.0,4.0,4.0
+P4316,60.1,,,,
+P4316,60.2,,,,
+P4316,60.3,,,,
+P4316,60.4,,,,
+P4316,60.5,,,,
+P4316,60.6,,,,
+P4316,60.7,,,,
+P4316,60.8,Yes,,,
+P4316,61.0,Yes,1.0,7.0,7.0
+P4316,62.0,"Such as this process, BPCI documentation process can be very confusing.",,,
+P4316,63.0,No,3.0,7.0,21.0
+P4316,64.0,No,1.0,7.0,7.0
+P4316,65.0,NA,,,

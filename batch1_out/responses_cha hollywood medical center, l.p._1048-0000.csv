@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+1048-0000,0.0,1048-0000,,,
+1048-0000,0.1,"CHA Hollywood Medical Center, L.P.",,,
+1048-0000,1.0,No,3.0,4.0,12.0
+1048-0000,2.0,No,3.0,4.0,12.0
+1048-0000,3.0,No,1.0,3.0,3.0
+1048-0000,4.0,NA; we didn't have any changes,0.0,7.0,0.0
+1048-0000,5.0,No,1.0,5.0,5.0
+1048-0000,6.0,Unsure,2.0,6.0,12.0
+1048-0000,7.0,Unsure,2.0,4.0,8.0
+1048-0000,8.0,Agree,1.0,4.0,4.0
+1048-0000,9.0,"We have made great progress on our high priority Care Redesign Interventions, specifically the following: - Coordination with Post-Acute Care Facilities: We have joint operating committee meetings with management teams that own and operate skilled nursing facilities to review BPCI-A patients who were discharged from their facilities and opportunities for continuous improvement.- Helping Address Socioeconomic Barriers to Care: We set up operations for a nurse practitioner to visit BPCI-A patients at their place of residence, allowing us to gain insight into the home and social factors that impact our patients' care. - Multidisciplinary Team-Based Care: We conduct a weekly BPCI-A Working Team Meeting to review BPCI-A patients with a team that includes representation from pharmacy, patient navigators, case management, documentation & coding, nursing, physical therapy, administration, and post-acute care units.",,,
+1048-0000,10.0,Yes,3.0,6.0,18.0
+1048-0000,11.0,"One of the challenges that we have experienced is in coordinating care with primary care providers. Despite NPRA sharing agreements with attending physicians, it has been difficult to motivate them to change their pre-existing referral patterns to post-acute care facilities that we have identified as being high performing institutions.",,,
+1048-0000,12.0,Yes,1.0,3.0,3.0
+1048-0000,13.0,No,1.0,3.0,3.0
+1048-0000,14.0,NA,,,
+1048-0000,15.0,NA; we are a Non-Convener Participant,0.0,7.0,0.0
+1048-0000,16.0,No,3.0,7.0,21.0
+1048-0000,17.0,Yes,1.0,7.0,7.0
+1048-0000,18.0,"As the program has evolved and our selection of clinical episodes have been modified over the first six months of the program, making updates and addenda to the existing agreements and communicating changes to our partner physicians have been challenging.",,,
+1048-0000,19.0,Yes,1.0,7.0,7.0
+1048-0000,20.0,Yes,3.0,5.0,15.0
+1048-0000,21.0,Yes,3.0,3.0,9.0
+1048-0000,22.0,Yes,1.0,7.0,7.0
+1048-0000,23.0,NA,,,
+1048-0000,24.0,Yes,1.0,7.0,7.0
+1048-0000,25.0,NA,,,
+1048-0000,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+1048-0000,27.0,"Some key considerations that we assessed to establish Financial Arrangements include the following: - Alignment with Vendors: We have engaged multiple contracted entities (e.g. health technology firms, post-acute care navigator staffing agency) to support us with the program and need to align incentives with them.  - Mechanism to Incentivize Physicians: We observed that there are many different physicians managing Traditional Medicare patients at our hospital, so we prioritized the physicians who historically saw the most patients specific to the clinical episodes that we selected. For these priority physicians, we established financial arrangements to motivate them to collaborate with our broader efforts to improve care coordination.",,,
+1048-0000,28.0,No,1.0,5.0,5.0
+1048-0000,29.0,NA; we don't participate in ICS Sharing,0.0,7.0,0.0
+1048-0000,30.0,Yes,3.0,5.0,15.0
+1048-0000,31.0,Yes,1.0,7.0,7.0
+1048-0000,32.0,We have engaged a third party vendor to oversee the calculation of shared repayment amounts to be distributed to our partners who are eligible to receive a NPRA repayment. This vendor processes our monthly claims data from CMS and calculates a performance scorecard specific to each physician.,,,
+1048-0000,33.0,In progress,2.0,7.0,14.0
+1048-0000,34.0,Yes,3.0,5.0,15.0
+1048-0000,35.0,No,1.0,3.0,3.0
+1048-0000,36.0,Yes,3.0,5.0,15.0
+1048-0000,37.0,Yes,3.0,5.0,15.0
+1048-0000,38.0,No,1.0,3.0,3.0
+1048-0000,39.0,No,3.0,6.0,18.0
+1048-0000,40.1,,,,
+1048-0000,40.2,,,,
+1048-0000,40.3,,,,
+1048-0000,40.4,Yes,,,
+1048-0000,40.5,,,,
+1048-0000,41.0,NA,,,
+1048-0000,42.0,Yes,1.0,3.0,3.0
+1048-0000,43.0,Yes,1.0,7.0,7.0
+1048-0000,44.0,No,3.0,5.0,15.0
+1048-0000,45.0,NA,,,
+1048-0000,46.1,,,,
+1048-0000,46.2,,,,
+1048-0000,46.3,Yes,,,
+1048-0000,46.4,Yes,,,
+1048-0000,46.5,,,,
+1048-0000,47.0,NA,,,
+1048-0000,48.0,Yes,1.0,7.0,7.0
+1048-0000,49.0,NA,,,
+1048-0000,50.0,Yes,3.0,5.0,15.0
+1048-0000,51.0,Some beneficiaries have expressed skepticism around the motivation behind the program and expressed concerns about participation.,,,
+1048-0000,52.0,Yes,1.0,4.0,4.0
+1048-0000,53.0,No,1.0,4.0,4.0
+1048-0000,54.0,"We have realized positive externalities from participating in the program, including: - Improvement in Patient Satisfaction- Reduction in Readmission Rates- Better Care Coordination with Post-Acute Care Providers - Operations that are Appealing to Managed Care Organizations",,,
+1048-0000,55.0,No,3.0,6.0,18.0
+1048-0000,56.0,NA,,,
+1048-0000,57.0,No,3.0,7.0,21.0
+1048-0000,58.0,NA; we have not yet implemented a system for monitoring and responding to beneficiary complaints,0.0,7.0,0.0
+1048-0000,59.0,NA; no complaint monitoring system yet,0.0,4.0,0.0
+1048-0000,60.1,,,,
+1048-0000,60.2,,,,
+1048-0000,60.3,,,,
+1048-0000,60.4,,,,
+1048-0000,60.5,,,,
+1048-0000,60.6,,,,
+1048-0000,60.7,,,,
+1048-0000,60.8,Yes,,,
+1048-0000,61.0,Yes,1.0,7.0,7.0
+1048-0000,62.0,NA,,,
+1048-0000,63.0,Yes,1.0,7.0,7.0
+1048-0000,64.0,No,1.0,7.0,7.0
+1048-0000,65.0,NA,,,

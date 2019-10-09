@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+1636-0001,0.0,1636-0001,,,
+1636-0001,0.1,"ThedaCare ACO, LLC",,,
+1636-0001,1.0,Yes,1.0,4.0,4.0
+1636-0001,2.0,Yes,1.0,4.0,4.0
+1636-0001,3.0,No,1.0,3.0,3.0
+1636-0001,4.0,NA; we didn't have any changes,0.0,7.0,0.0
+1636-0001,5.0,No,1.0,5.0,5.0
+1636-0001,6.0,Yes,3.0,6.0,18.0
+1636-0001,7.0,Unsure,2.0,4.0,8.0
+1636-0001,8.0,Neutral,2.0,4.0,8.0
+1636-0001,9.0,"Care pathways for AMI and CHF are in development to enhance bundle management across the continuum.  Educational efforts this year are aimed at System-wide utilization and adherence to the teach back method and utilization of outpatient care management for patients identified as high-risk for readmission.  A care transitions model, which includes the flow from the inpatient to the post-acute setting, has been defined and will be rolled out in Q4 of 2019.",,,
+1636-0001,10.0,Yes,3.0,6.0,18.0
+1636-0001,11.0,"The format and method to communicate BPCA-I findings and key information to providers is in development and impacts implementation of care redesign.  There is overlap between this work and system-wide initiatives to improve care transitions, codify care pathways, decrease mortality, and to provide the right level of care at the right time.  As a result, there is a lot of data available to providers.  An area of focus has been to understand the meaning of the data in order to provide the information to providers in a manner which is actionable.",,,
+1636-0001,12.0,Yes,1.0,3.0,3.0
+1636-0001,13.0,No,1.0,3.0,3.0
+1636-0001,14.0,,,,
+1636-0001,15.0,Yes,1.0,7.0,7.0
+1636-0001,16.0,Yes,1.0,7.0,7.0
+1636-0001,17.0,Yes,1.0,7.0,7.0
+1636-0001,18.0,,,,
+1636-0001,19.0,NA: System already in place before this model,0.0,7.0,0.0
+1636-0001,20.0,Yes,3.0,5.0,15.0
+1636-0001,21.0,NA; already in a financial arrangement(s),0.0,3.0,0.0
+1636-0001,22.0,Yes,1.0,7.0,7.0
+1636-0001,23.0,,,,
+1636-0001,24.0,No,3.0,7.0,21.0
+1636-0001,25.0,"We do not have a separate NPRA sharing arrangement since the episode initiators are wholly owned entities of the organization that is the sole member of the ACO.   ThedaCare Hospitals are part of ThedaCare,Inc.  ThedaCare, Inc is the sole member of the ACO, the convener.",,,
+1636-0001,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+1636-0001,27.0,"The ThedaCare Inc., Health system has agreed to engage in the program and accept risk for the episodes initiated in it's hospitals.",,,
+1636-0001,28.0,No,1.0,5.0,5.0
+1636-0001,29.0,NA; we don't participate in ICS Sharing,0.0,7.0,0.0
+1636-0001,30.0,Yes,3.0,5.0,15.0
+1636-0001,31.0,Yes,1.0,7.0,7.0
+1636-0001,32.0,Our episode initiators are responsible for all shared repayment amounts.,,,
+1636-0001,33.0,In progress,2.0,7.0,14.0
+1636-0001,34.0,No,1.0,5.0,5.0
+1636-0001,35.0,No,1.0,3.0,3.0
+1636-0001,36.0,No,1.0,5.0,5.0
+1636-0001,37.0,No,1.0,5.0,5.0
+1636-0001,38.0,NA; we don't use MPP Waivers,0.0,3.0,0.0
+1636-0001,39.0,NA; not using any of the waivers,0.0,6.0,0.0
+1636-0001,40.1,,,,
+1636-0001,40.2,,,,
+1636-0001,40.3,,,,
+1636-0001,40.4,,,,
+1636-0001,40.5,,,,
+1636-0001,41.0,,,,
+1636-0001,42.0,Yes,1.0,3.0,3.0
+1636-0001,43.0,Yes,1.0,7.0,7.0
+1636-0001,44.0,Yes,1.0,5.0,5.0
+1636-0001,45.0,Multiple Individuals are involved in the Program and we have a third party consultant assisting us.  This will allow for continuity between a departing individual and an incoming individual.,,,
+1636-0001,46.1,,,,
+1636-0001,46.2,,,,
+1636-0001,46.3,Yes,,,
+1636-0001,46.4,,,,
+1636-0001,46.5,,,,
+1636-0001,47.0,,,,
+1636-0001,48.0,Yes,1.0,7.0,7.0
+1636-0001,49.0,,,,
+1636-0001,50.0,No,1.0,5.0,5.0
+1636-0001,51.0,,,,
+1636-0001,52.0,Unsure,2.0,4.0,8.0
+1636-0001,53.0,Unsure,2.0,4.0,8.0
+1636-0001,54.0,,,,
+1636-0001,55.0,No,3.0,6.0,18.0
+1636-0001,56.0,,,,
+1636-0001,57.0,Yes; using existing system,1.0,7.0,7.0
+1636-0001,58.0,Agree,1.0,7.0,7.0
+1636-0001,59.0,No,1.0,4.0,4.0
+1636-0001,60.1,,,,
+1636-0001,60.2,,,,
+1636-0001,60.3,,,,
+1636-0001,60.4,,,,
+1636-0001,60.5,,,,
+1636-0001,60.6,,,,
+1636-0001,60.7,,,,
+1636-0001,60.8,Yes,,,
+1636-0001,61.0,Yes,1.0,7.0,7.0
+1636-0001,62.0,Forms are confusing and instructions are oftentimes unclear,,,
+1636-0001,63.0,No,3.0,7.0,21.0
+1636-0001,64.0,No,1.0,7.0,7.0
+1636-0001,65.0,,,,

@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+2364-0000,0.0,2364-0000,,,
+2364-0000,0.1,"St. Bernards Hospital, Inc.",,,
+2364-0000,1.0,Yes,1.0,4.0,4.0
+2364-0000,2.0,Yes,1.0,4.0,4.0
+2364-0000,3.0,No,1.0,3.0,3.0
+2364-0000,4.0,---,,,
+2364-0000,5.0,No,1.0,5.0,5.0
+2364-0000,6.0,Unsure,2.0,6.0,12.0
+2364-0000,7.0,Unsure,2.0,4.0,8.0
+2364-0000,8.0,Strongly Agree,1.0,4.0,4.0
+2364-0000,9.0,There has been an establishment of the Heart Failure huddle twice weekly to discuss discharge plans for each HF patient. Processes are continually being evaluated and updated as needed to avoid readmissions. We are beginning to formally start a preferred post acute network.,,,
+2364-0000,10.0,---,,,
+2364-0000,11.0,,,,
+2364-0000,12.0,Yes,1.0,3.0,3.0
+2364-0000,13.0,No,1.0,3.0,3.0
+2364-0000,14.0,,,,
+2364-0000,15.0,NA; we are a Non-Convener Participant,0.0,7.0,0.0
+2364-0000,16.0,No,3.0,7.0,21.0
+2364-0000,17.0,No,3.0,7.0,21.0
+2364-0000,18.0,,,,
+2364-0000,19.0,Yes,1.0,7.0,7.0
+2364-0000,20.0,NA; never participated in financial arrangements,0.0,5.0,0.0
+2364-0000,21.0,No,1.0,3.0,3.0
+2364-0000,22.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+2364-0000,23.0,,,,
+2364-0000,24.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+2364-0000,25.0,,,,
+2364-0000,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+2364-0000,27.0,,,,
+2364-0000,28.0,No,1.0,5.0,5.0
+2364-0000,29.0,---,,,
+2364-0000,30.0,No,1.0,5.0,5.0
+2364-0000,31.0,NA; not requiring shared repayments by partners,0.0,7.0,0.0
+2364-0000,32.0,,,,
+2364-0000,33.0,In progress,2.0,7.0,14.0
+2364-0000,34.0,No,1.0,5.0,5.0
+2364-0000,35.0,NA; we don't use Fraud and Abuse Waivers,0.0,3.0,0.0
+2364-0000,36.0,No,1.0,5.0,5.0
+2364-0000,37.0,---,,,
+2364-0000,38.0,NA; we don't use MPP Waivers,0.0,3.0,0.0
+2364-0000,39.0,NA; not using any of the waivers,0.0,6.0,0.0
+2364-0000,40.1,,,,
+2364-0000,40.2,,,,
+2364-0000,40.3,,,,
+2364-0000,40.4,,,,
+2364-0000,40.5,,,,
+2364-0000,41.0,,,,
+2364-0000,42.0,Yes,1.0,3.0,3.0
+2364-0000,43.0,Yes,1.0,7.0,7.0
+2364-0000,44.0,Yes,1.0,5.0,5.0
+2364-0000,45.0,"In the event that leadership should leave the organization, the incoming individual will assume responsibility for the BPCI Advanced Model. Should the leadership change without a replacement planned the Vice-President will assign the duties of BPCI Advanced Model to another employee at that time.",,,
+2364-0000,46.1,,,,
+2364-0000,46.2,,,,
+2364-0000,46.3,Yes,,,
+2364-0000,46.4,Yes,,,
+2364-0000,46.5,,,,
+2364-0000,47.0,,,,
+2364-0000,48.0,Yes,1.0,7.0,7.0
+2364-0000,49.0,,,,
+2364-0000,50.0,No,1.0,5.0,5.0
+2364-0000,51.0,,,,
+2364-0000,52.0,Yes,1.0,4.0,4.0
+2364-0000,53.0,Unsure,2.0,4.0,8.0
+2364-0000,54.0,Working with the CHF bundled has brought healthcare workers all over the organization together to work on a shared goal.,,,
+2364-0000,55.0,Yes,1.0,6.0,6.0
+2364-0000,56.0,"LOS, re-admits and discharge location are very closely monitored; as well as, patient outcomes at the end of episode of care.",,,
+2364-0000,57.0,Yes; using existing system,1.0,7.0,7.0
+2364-0000,58.0,Strongly Agree,1.0,7.0,7.0
+2364-0000,59.0,No,1.0,4.0,4.0
+2364-0000,60.1,,,,
+2364-0000,60.2,,,,
+2364-0000,60.3,,,,
+2364-0000,60.4,,,,
+2364-0000,60.5,,,,
+2364-0000,60.6,,,,
+2364-0000,60.7,,,,
+2364-0000,60.8,,,,
+2364-0000,61.0,Yes,1.0,7.0,7.0
+2364-0000,62.0,,,,
+2364-0000,63.0,Yes,1.0,7.0,7.0
+2364-0000,64.0,No,1.0,7.0,7.0
+2364-0000,65.0,The uncertainty of dates for reconciliation has been a slight challenge.,,,

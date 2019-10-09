@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+5478-0001,0.0,5478-0001,,,
+5478-0001,0.1,AHS Hospital Corp.,,,
+5478-0001,1.0,Yes,1.0,4.0,4.0
+5478-0001,2.0,Yes,1.0,4.0,4.0
+5478-0001,3.0,No,1.0,3.0,3.0
+5478-0001,4.0,NA; we didn't have any changes,0.0,7.0,0.0
+5478-0001,5.0,No,1.0,5.0,5.0
+5478-0001,6.0,Unsure,2.0,6.0,12.0
+5478-0001,7.0,Unsure,2.0,4.0,8.0
+5478-0001,8.0,Strongly Agree,1.0,4.0,4.0
+5478-0001,9.0,"Through the system-wide transitions of care program, we have embedded transitions of care nurses in all the medical centers. We have also created a process to ensure all bpci advanced patients are identified and connected to the right resource. Finally, we developed a team of post acute care liaisons to follow patients, support warm hand-offs/transitions after the inpatient discharge.",,,
+5478-0001,10.0,No,1.0,6.0,6.0
+5478-0001,11.0,Some successes include: increasing awareness of value based care programs across the organization and improving operational integration and coordination among various clinical departments. Some challenges include: short time frame to analyze large quantities of data and some of the attribution overlap with various CMS value based care programs (CJR and ACO).,,,
+5478-0001,12.0,Yes,1.0,3.0,3.0
+5478-0001,13.0,No,1.0,3.0,3.0
+5478-0001,14.0,We had a system-wide Epic implementation for all the hospitals in 2018.,,,
+5478-0001,15.0,Yes,1.0,7.0,7.0
+5478-0001,16.0,No,3.0,7.0,21.0
+5478-0001,17.0,No,3.0,7.0,21.0
+5478-0001,18.0,There have been no material challenges.,,,
+5478-0001,19.0,Yes,1.0,7.0,7.0
+5478-0001,20.0,NA; never participated in financial arrangements,0.0,5.0,0.0
+5478-0001,21.0,Unsure,2.0,3.0,6.0
+5478-0001,22.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+5478-0001,23.0,not applicable.,,,
+5478-0001,24.0,NA; we don't participate in NPRA Sharing,0.0,7.0,0.0
+5478-0001,25.0,not applicable.,,,
+5478-0001,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+5478-0001,27.0,not applicable.,,,
+5478-0001,28.0,No,1.0,5.0,5.0
+5478-0001,29.0,NA; we don't participate in ICS Sharing,0.0,7.0,0.0
+5478-0001,30.0,No,1.0,5.0,5.0
+5478-0001,31.0,No,3.0,7.0,21.0
+5478-0001,32.0,Not applicable.,,,
+5478-0001,33.0,Yes,1.0,7.0,7.0
+5478-0001,34.0,No,1.0,5.0,5.0
+5478-0001,35.0,No,1.0,3.0,3.0
+5478-0001,36.0,No,1.0,5.0,5.0
+5478-0001,37.0,No,1.0,5.0,5.0
+5478-0001,38.0,No,1.0,3.0,3.0
+5478-0001,39.0,NA; not using any of the waivers,0.0,6.0,0.0
+5478-0001,40.1,,,,
+5478-0001,40.2,,,,
+5478-0001,40.3,,,,
+5478-0001,40.4,,,,
+5478-0001,40.5,,,,
+5478-0001,41.0,Not applicable.,,,
+5478-0001,42.0,Yes,1.0,3.0,3.0
+5478-0001,43.0,Yes,1.0,7.0,7.0
+5478-0001,44.0,No,3.0,5.0,15.0
+5478-0001,45.0,Not applicable.,,,
+5478-0001,46.1,,,,
+5478-0001,46.2,,,,
+5478-0001,46.3,Yes,,,
+5478-0001,46.4,,,,
+5478-0001,46.5,,,,
+5478-0001,47.0,Not applicable.,,,
+5478-0001,48.0,Yes,1.0,7.0,7.0
+5478-0001,49.0,Not applicable.,,,
+5478-0001,50.0,No,1.0,5.0,5.0
+5478-0001,51.0,Not applicable.,,,
+5478-0001,52.0,Yes,1.0,4.0,4.0
+5478-0001,53.0,Yes,3.0,4.0,12.0
+5478-0001,54.0,Positive outcomes include increased engagement with the claims based bundles data. Negative outcomes include tension between providers with overlapping CMS value based care programs.,,,
+5478-0001,55.0,Yes,1.0,6.0,6.0
+5478-0001,56.0,AHS has a means to audit and monitor internal systems and activities in order to verify compliance.  Regular audits are performed in accordance with a formal workplan.  Each year the audit workplan is developed in response to its risk assessment.  The workplan is created using a multi-disciplinary collaboration.,,,
+5478-0001,57.0,Yes; using existing system,1.0,7.0,7.0
+5478-0001,58.0,Strongly Agree,1.0,7.0,7.0
+5478-0001,59.0,No,1.0,4.0,4.0
+5478-0001,60.1,,,,
+5478-0001,60.2,,,,
+5478-0001,60.3,,,,
+5478-0001,60.4,,,,
+5478-0001,60.5,,,,
+5478-0001,60.6,,,,
+5478-0001,60.7,,,,
+5478-0001,60.8,Yes,,,
+5478-0001,61.0,Yes,1.0,7.0,7.0
+5478-0001,62.0,None.,,,
+5478-0001,63.0,Yes,1.0,7.0,7.0
+5478-0001,64.0,No,1.0,7.0,7.0
+5478-0001,65.0,None.,,,

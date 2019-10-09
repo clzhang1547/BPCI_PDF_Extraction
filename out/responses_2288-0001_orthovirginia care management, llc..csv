@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+2288-0001,0.0,2288-0001,,,
+2288-0001,0.1,"OrthoVirginia Care Management, LLC.",,,
+2288-0001,1.0,Yes,1.0,4.0,4.0
+2288-0001,2.0,Yes,1.0,4.0,4.0
+2288-0001,3.0,No,1.0,3.0,3.0
+2288-0001,4.0,NA; we didn't have any changes,0.0,7.0,0.0
+2288-0001,5.0,No,1.0,5.0,5.0
+2288-0001,6.0,Unsure,2.0,6.0,12.0
+2288-0001,7.0,Unsure,2.0,4.0,8.0
+2288-0001,8.0,Agree,1.0,4.0,4.0
+2288-0001,9.0,"Our high priority care redesign interventions focus on physician engagement, clinical leadership, and care management.  We implemented a structured pathway to assessing patients both pre-operatively and postoperatively for multiple disease processes. We have  implemented a clinical outreach assessment and  post-acute care task list used in each office throughout the state.  We  provide weekly patient updates and case management communication with providers. we have implemented clinical leadership to oversee operations of program specific goals. We have  completed our  high priority focus areas.",,,
+2288-0001,10.0,No,1.0,6.0,6.0
+2288-0001,11.0,We are proceeding as expected with all interventions.  Barriers exist with hospital collaboration. Hospitals with owned Inpatient rehabilitation centers continue to drive PAC costs towards higher level of care then necessary. Our care management teams continue to provide the safest care at the most appropriate level.,,,
+2288-0001,12.0,Yes,1.0,3.0,3.0
+2288-0001,13.0,No,1.0,3.0,3.0
+2288-0001,14.0,The only challenge in meeting this requirement would be ensuring we are on the most up to date version of software that complies with this requirement.,,,
+2288-0001,15.0,Yes,1.0,7.0,7.0
+2288-0001,16.0,Yes,1.0,7.0,7.0
+2288-0001,17.0,Yes,1.0,7.0,7.0
+2288-0001,18.0,"The only challenge is ensuring we are educating the new providers as soon as possible about the program and obtaining signature on the agreement.  Thus far we have been able to meet our internal goal of either just before starting practice, or very shortly after they begin.",,,
+2288-0001,19.0,Yes,1.0,7.0,7.0
+2288-0001,20.0,Yes,3.0,5.0,15.0
+2288-0001,21.0,NA; already in a financial arrangement(s),0.0,3.0,0.0
+2288-0001,22.0,Yes,1.0,7.0,7.0
+2288-0001,23.0,,,,
+2288-0001,24.0,Yes,1.0,7.0,7.0
+2288-0001,25.0,,,,
+2288-0001,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+2288-0001,27.0,"OrthoVirginia Care Management, LLC was formed with the intention of taking on risk for the bundle program as a Convener Participant.  It is due to their sole EI, OrthoVirginia, Inc., which did very well in developing their clinical program around the BPCI classic program.  They felt strongly that they could take what they learned from classic and enhance the other DRG's to improve quality and decrease costs. Key considerations for taking on risk is experience, data analysis and informed decision making.",,,
+2288-0001,28.0,Yes,3.0,5.0,15.0
+2288-0001,29.0,In progress,2.0,7.0,14.0
+2288-0001,30.0,Yes,3.0,5.0,15.0
+2288-0001,31.0,Yes,1.0,7.0,7.0
+2288-0001,32.0,All information on shared repayment amounts is derived from monthly reconciliation data reports. Performance is assessed monthly to predictpossible shared repayment or reconciliation amounts. These predictions areshared with the BPCI-A review committee.,,,
+2288-0001,33.0,Yes,1.0,7.0,7.0
+2288-0001,34.0,Yes,3.0,5.0,15.0
+2288-0001,35.0,No,1.0,3.0,3.0
+2288-0001,36.0,Yes,3.0,5.0,15.0
+2288-0001,37.0,Yes,3.0,5.0,15.0
+2288-0001,38.0,No,1.0,3.0,3.0
+2288-0001,39.0,Yes,1.0,6.0,6.0
+2288-0001,40.1,Yes,,,
+2288-0001,40.2,,,,
+2288-0001,40.3,,,,
+2288-0001,40.4,,,,
+2288-0001,40.5,Yes,,,
+2288-0001,41.0,Utilization of internal software reporting.,,,
+2288-0001,42.0,Yes,1.0,3.0,3.0
+2288-0001,43.0,Yes,1.0,7.0,7.0
+2288-0001,44.0,Yes,1.0,5.0,5.0
+2288-0001,45.0,"The organization hired a Director of Clinical Programs to run the BPCI-A program and this person shares administrative responsibilities with me.  We do not have a deep succession plan, but it is a work in progress.",,,
+2288-0001,46.1,,,,
+2288-0001,46.2,Yes,,,
+2288-0001,46.3,,,,
+2288-0001,46.4,,,,
+2288-0001,46.5,Yes,,,
+2288-0001,47.0,Uploaded to the patients portal through our Electronic Health Record.,,,
+2288-0001,48.0,Yes,1.0,7.0,7.0
+2288-0001,49.0,,,,
+2288-0001,50.0,No,1.0,5.0,5.0
+2288-0001,51.0,,,,
+2288-0001,52.0,Unsure,2.0,4.0,8.0
+2288-0001,53.0,Unsure,2.0,4.0,8.0
+2288-0001,54.0,,,,
+2288-0001,55.0,Yes,1.0,6.0,6.0
+2288-0001,56.0,We utilize our EHR system to monitor status of the patient and discharge planning so we can assist in coordination of care with the goal of appropriate PAC utilization.,,,
+2288-0001,57.0,No,3.0,7.0,21.0
+2288-0001,58.0,,,,
+2288-0001,59.0,Yes,3.0,4.0,12.0
+2288-0001,60.1,,,,
+2288-0001,60.2,,,,
+2288-0001,60.3,,,,
+2288-0001,60.4,Yes,,,
+2288-0001,60.5,,,,
+2288-0001,60.6,Yes,,,
+2288-0001,60.7,,,,
+2288-0001,60.8,,,,
+2288-0001,61.0,Yes,1.0,7.0,7.0
+2288-0001,62.0,"Due dates changing, but not aligning with other things due at the same time.",,,
+2288-0001,63.0,Yes,1.0,7.0,7.0
+2288-0001,64.0,No,1.0,7.0,7.0
+2288-0001,65.0,"Receiving TIMELY notifications when new or updated materials become available on the various advanced portals.  Why multiple portals?  Too many emails and too many long emails.  Navigating the portal to find documents is not always clear.  Changing of due dates for some things and not others that are typically due together can be confusing.  Not having timely responses to the quarterly updates to the QPP and FAL is a barrier to ensure we have information recorded appropriately.   There have been times that one FAiL report shows a PGP passes one quarter and the PGP fails the next, doesn't make sense. There seems to be some subjective review of these documents.",,,

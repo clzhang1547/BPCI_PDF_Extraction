@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+1565-0001,0.0,1565-0001,,,
+1565-0001,0.1,"Signature Medical Group, INC.",,,
+1565-0001,1.0,Yes,1.0,4.0,4.0
+1565-0001,2.0,Yes,1.0,4.0,4.0
+1565-0001,3.0,No,1.0,3.0,3.0
+1565-0001,4.0,NA; we didn't have any changes,0.0,7.0,0.0
+1565-0001,5.0,No,1.0,5.0,5.0
+1565-0001,6.0,Yes,3.0,6.0,18.0
+1565-0001,7.0,Yes,3.0,4.0,12.0
+1565-0001,8.0,Agree,1.0,4.0,4.0
+1565-0001,9.0,"As a result of Signatures ongoing clinical research and commitment to quality care and outcomes, we have met our goal for the 6 month high priority item, Care processes common to multiple diagnoses or episodes. We have already met our 12 month high priority items, Telehealth and Enhanced availability of care. We are committed to providing continuous education to our BPCI Advanced Partners regarding additional or enhanced care coordination methods.",,,
+1565-0001,10.0,No,1.0,6.0,6.0
+1565-0001,11.0,,,,
+1565-0001,12.0,Yes,1.0,3.0,3.0
+1565-0001,13.0,No,1.0,3.0,3.0
+1565-0001,14.0,,,,
+1565-0001,15.0,Yes,1.0,7.0,7.0
+1565-0001,16.0,Yes,1.0,7.0,7.0
+1565-0001,17.0,Yes,1.0,7.0,7.0
+1565-0001,18.0,,,,
+1565-0001,19.0,Yes,1.0,7.0,7.0
+1565-0001,20.0,Yes,3.0,5.0,15.0
+1565-0001,21.0,Yes,3.0,3.0,9.0
+1565-0001,22.0,Yes,1.0,7.0,7.0
+1565-0001,23.0,,,,
+1565-0001,24.0,No,3.0,7.0,21.0
+1565-0001,25.0,Our downstream PGP episode initiator's acute care hospitals have yet to finalize any internal cost savings agreements. The precedence rules involving ACO's and CJR have made it harder to secure ICS arrangements in BPCI Advanced compared to BPCI Classic.,,,
+1565-0001,26.0,NA; we don't have relationship with a BPCI Advanced Entity,0.0,7.0,0.0
+1565-0001,27.0,"We used our experience in BPCI Classic to review the historical data sets and develop a financial structure that rewarded program adherence, improvement in clinical outcomes for beneficiaries, and coordination of care transition activities.",,,
+1565-0001,28.0,Yes,3.0,5.0,15.0
+1565-0001,29.0,Yes,1.0,7.0,7.0
+1565-0001,30.0,Yes,3.0,5.0,15.0
+1565-0001,31.0,Yes,1.0,7.0,7.0
+1565-0001,32.0,We have secured a secondary repayment line of credit from our financial institution in the event that negative repayment amounts are necessary. Each one of our episode initiators was also asked to secure a letter of credit or escrow account for an agreed upon amount to assist in the repayment of any negative shared repayment amounts.,,,
+1565-0001,33.0,Yes,1.0,7.0,7.0
+1565-0001,34.0,Yes,3.0,5.0,15.0
+1565-0001,35.0,No,1.0,3.0,3.0
+1565-0001,36.0,Yes,3.0,5.0,15.0
+1565-0001,37.0,Yes,3.0,5.0,15.0
+1565-0001,38.0,No,1.0,3.0,3.0
+1565-0001,39.0,Yes,1.0,6.0,6.0
+1565-0001,40.1,Yes,,,
+1565-0001,40.2,,,,
+1565-0001,40.3,,,,
+1565-0001,40.4,,,,
+1565-0001,40.5,,,,
+1565-0001,41.0,,,,
+1565-0001,42.0,Yes,1.0,3.0,3.0
+1565-0001,43.0,Yes,1.0,7.0,7.0
+1565-0001,44.0,Yes,1.0,5.0,5.0
+1565-0001,45.0,"Signature Care Management has a structured orientation and training program for all employees, including management. We also focus on cross-training of key activities and tasks, to ensure redundancy of systems and knowledge transfer. In addition, we employ a management structure that plans for, and encourages development and promotion from within in the event of key employee departures.",,,
+1565-0001,46.1,Yes,,,
+1565-0001,46.2,Yes,,,
+1565-0001,46.3,Yes,,,
+1565-0001,46.4,Yes,,,
+1565-0001,46.5,,,,
+1565-0001,47.0,,,,
+1565-0001,48.0,Yes,1.0,7.0,7.0
+1565-0001,49.0,,,,
+1565-0001,50.0,No,1.0,5.0,5.0
+1565-0001,51.0,,,,
+1565-0001,52.0,No,3.0,4.0,12.0
+1565-0001,53.0,No,1.0,4.0,4.0
+1565-0001,54.0,,,,
+1565-0001,55.0,Yes,1.0,6.0,6.0
+1565-0001,56.0,"SMG promotes an open line of communication between the BPCI Advanced Compliance Officer and all Model Participants. Any Model Participant may seek clarification from the BPCI Advanced Compliance Officer on any issue where there is confusion or questions regarding policies and procedures. SMG has established a policy of confidentiality and non-retaliation when any individual reports or discusses matters with the BPCI Advanced Compliance Officer involving potential violations of law, including but not limited to, potential fraud or abuse. The BPCI Advanced Compliance Officer will be responsible for monitoring the Model for compliance with applicable laws and regulations and the CMS Agreement. Audits for compliance may be conducted by the BPCI Advanced Compliance Officer or, as appointed by the BPCI Advanced Compliance Officer, outside auditors, or consultants. All Model Participants are expected to fully cooperate with any audits or reviews conducted.",,,
+1565-0001,57.0,Yes; using existing system,1.0,7.0,7.0
+1565-0001,58.0,Agree,1.0,7.0,7.0
+1565-0001,59.0,No,1.0,4.0,4.0
+1565-0001,60.1,,,,
+1565-0001,60.2,,,,
+1565-0001,60.3,,,,
+1565-0001,60.4,,,,
+1565-0001,60.5,,,,
+1565-0001,60.6,,,,
+1565-0001,60.7,,,,
+1565-0001,60.8,Yes,,,
+1565-0001,61.0,Yes,1.0,7.0,7.0
+1565-0001,62.0,,,,
+1565-0001,63.0,Yes,1.0,7.0,7.0
+1565-0001,64.0,No,1.0,7.0,7.0
+1565-0001,65.0,,,,

@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+2174-0001,0.0,2174-0001,,,
+2174-0001,0.1,Mayo Clinic,,,
+2174-0001,1.0,Yes,1.0,4.0,4.0
+2174-0001,2.0,Yes,1.0,4.0,4.0
+2174-0001,3.0,No,1.0,3.0,3.0
+2174-0001,4.0,NA; we didn't have any changes,0.0,7.0,0.0
+2174-0001,5.0,Yes,3.0,5.0,15.0
+2174-0001,6.0,Yes,3.0,6.0,18.0
+2174-0001,7.0,Unsure,2.0,4.0,8.0
+2174-0001,8.0,Strongly Agree,1.0,4.0,4.0
+2174-0001,9.0,Mayo Clinic continues to evaluate ways in which care redesign is applicable at the various participating sites for the BPCI-A. Our focus remains on identifying BPCI-A patients as early as possible and focusing on Post Acute Care interventions such as decreasing SNF utilization and increasing use of care coordination programs.,,,
+2174-0001,10.0,No,1.0,6.0,6.0
+2174-0001,11.0,Our challenge is in regard to identifying the most essential needs of patients and utilizing the most appropriate resources for them to improve their care.We have experienced early success with a SNF partner and plan to utilize this as a model of how to partner with a SNF at other sites.,,,
+2174-0001,12.0,Yes,1.0,3.0,3.0
+2174-0001,13.0,No,1.0,3.0,3.0
+2174-0001,14.0,NA,,,
+2174-0001,15.0,Yes,1.0,7.0,7.0
+2174-0001,16.0,Yes,1.0,7.0,7.0
+2174-0001,17.0,Yes,1.0,7.0,7.0
+2174-0001,18.0,NA.,,,
+2174-0001,19.0,Yes,1.0,7.0,7.0
+2174-0001,20.0,Yes,3.0,5.0,15.0
+2174-0001,21.0,NA; already in a financial arrangement(s),0.0,3.0,0.0
+2174-0001,22.0,Yes,1.0,7.0,7.0
+2174-0001,23.0,,,,
+2174-0001,24.0,Yes,1.0,7.0,7.0
+2174-0001,25.0,,,,
+2174-0001,26.0,No,3.0,7.0,21.0
+2174-0001,27.0,,,,
+2174-0001,28.0,No,1.0,5.0,5.0
+2174-0001,29.0,NA; we don't participate in ICS Sharing,0.0,7.0,0.0
+2174-0001,30.0,Yes,3.0,5.0,15.0
+2174-0001,31.0,Yes,1.0,7.0,7.0
+2174-0001,32.0,Policy and procedures have been implemented to distribute the NPRA when settlements are made.  We will distribute savings and losses to the individual hospitals participating.,,,
+2174-0001,33.0,Yes,1.0,7.0,7.0
+2174-0001,34.0,No,1.0,5.0,5.0
+2174-0001,35.0,NA; we don't use Fraud and Abuse Waivers,0.0,3.0,0.0
+2174-0001,36.0,Yes,3.0,5.0,15.0
+2174-0001,37.0,Yes,3.0,5.0,15.0
+2174-0001,38.0,No,1.0,3.0,3.0
+2174-0001,39.0,Yes,1.0,6.0,6.0
+2174-0001,40.1,Yes,,,
+2174-0001,40.2,,,,
+2174-0001,40.3,,,,
+2174-0001,40.4,,,,
+2174-0001,40.5,,,,
+2174-0001,41.0,,,,
+2174-0001,42.0,Yes,1.0,3.0,3.0
+2174-0001,43.0,Yes,1.0,7.0,7.0
+2174-0001,44.0,Yes,1.0,5.0,5.0
+2174-0001,45.0,The infrastructure and management of BPCI-A is set up in a way where there are many key players who know and can step in as needed for any reason.,,,
+2174-0001,46.1,,,,
+2174-0001,46.2,Yes,,,
+2174-0001,46.3,Yes,,,
+2174-0001,46.4,,,,
+2174-0001,46.5,,,,
+2174-0001,47.0,,,,
+2174-0001,48.0,Yes,1.0,7.0,7.0
+2174-0001,49.0,,,,
+2174-0001,50.0,No,1.0,5.0,5.0
+2174-0001,51.0,,,,
+2174-0001,52.0,Unsure,2.0,4.0,8.0
+2174-0001,53.0,No,1.0,4.0,4.0
+2174-0001,54.0,,,,
+2174-0001,55.0,No,3.0,6.0,18.0
+2174-0001,56.0,,,,
+2174-0001,57.0,Yes; using existing system,1.0,7.0,7.0
+2174-0001,58.0,Agree,1.0,7.0,7.0
+2174-0001,59.0,No,1.0,4.0,4.0
+2174-0001,60.1,,,,
+2174-0001,60.2,,,,
+2174-0001,60.3,,,,
+2174-0001,60.4,,,,
+2174-0001,60.5,,,,
+2174-0001,60.6,,,,
+2174-0001,60.7,,,,
+2174-0001,60.8,Yes,,,
+2174-0001,61.0,Yes,1.0,7.0,7.0
+2174-0001,62.0,,,,
+2174-0001,63.0,Yes,1.0,7.0,7.0
+2174-0001,64.0,No,1.0,7.0,7.0
+2174-0001,65.0,"1. Our practice has noticed that it is challenging to accurately identify BPCI patients in advance or in near-real time, due to either patient Medicare enrollment status changes or other reasons providers do not have insight into.  2. CMS recently addressed the TAVR following PCI issue in the new rule. However, Mitral Clip following PCI was not. Our practice still has a concern that Mitral Clips could potentially impact our PCI-OP performance as we are seeing an upward trend recently. 3. Watchman devices and PCIs share a DRG, but Watchmans are much more costly than PCI internally and recommend CMS consider different DRGs.",,,

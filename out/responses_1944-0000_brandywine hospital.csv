@@ -1,0 +1,83 @@
+﻿BPCI ID,ID,Response,Response Weight,Risk Level,Risk Score
+1944-0000,0.0,1944-0000,,,
+1944-0000,0.1,Brandywine Hospital,,,
+1944-0000,1.0,Yes,1.0,4.0,4.0
+1944-0000,2.0,Yes,1.0,4.0,4.0
+1944-0000,3.0,No,1.0,3.0,3.0
+1944-0000,4.0,NA; we didn't have any changes,0.0,7.0,0.0
+1944-0000,5.0,No,1.0,5.0,5.0
+1944-0000,6.0,Unsure,2.0,6.0,12.0
+1944-0000,7.0,Unsure,2.0,4.0,8.0
+1944-0000,8.0,Agree,1.0,4.0,4.0
+1944-0000,9.0,"Brandywine Hospital BPCI Advanced care redesign activities continue to be driven by system-level Clinical Effectiveness Teams (CETs) focused on redesigning clinical workflows across the acute and post-acute care settings by service line for each episode selected. The CETs are composed of physicians, nurses, ancillary staff, hospital administrators, and post-acute care providers. Each CET focuses on areas within the continuum of care, closely considering and implementing initiatives built on evidence-based medicine, beneficiary/caregiver engagement, quality and coordination of care, and care transitions.",,,
+1944-0000,10.0,No,1.0,6.0,6.0
+1944-0000,11.0,NA,,,
+1944-0000,12.0,Yes,1.0,3.0,3.0
+1944-0000,13.0,No,1.0,3.0,3.0
+1944-0000,14.0,NA,,,
+1944-0000,15.0,NA; we are a Non-Convener Participant,0.0,7.0,0.0
+1944-0000,16.0,Yes,1.0,7.0,7.0
+1944-0000,17.0,Yes,1.0,7.0,7.0
+1944-0000,18.0,NA,,,
+1944-0000,19.0,Partial; establishing accounting system,2.0,7.0,14.0
+1944-0000,20.0,Yes,3.0,5.0,15.0
+1944-0000,21.0,Yes,3.0,3.0,9.0
+1944-0000,22.0,Yes,1.0,7.0,7.0
+1944-0000,23.0,NA,,,
+1944-0000,24.0,Yes,1.0,7.0,7.0
+1944-0000,25.0,NA,,,
+1944-0000,26.0,Yes,1.0,7.0,7.0
+1944-0000,27.0,"Brandywine Hospital (BH) is a part of Tower Health. Tower Health has been engaged in Medicare-based NPRA since the inception of the CJR program on April 1, 2016, as it was selected as a mandatory participating hospital. The system has gained valuable experience in partnering with its independent orthopedic surgeons to share the NPRA savings and believes that such an arrangement has helped facilitate greater alignment between the physicians and the hospital. BH will utilize these proven processes and policies with other service lines as it engages with physicians in new CMS bundled payment programs.",,,
+1944-0000,28.0,No,1.0,5.0,5.0
+1944-0000,29.0,NA; we don't participate in ICS Sharing,0.0,7.0,0.0
+1944-0000,30.0,Yes,3.0,5.0,15.0
+1944-0000,31.0,Yes,1.0,7.0,7.0
+1944-0000,32.0,Shared Repayment Amounts associated with BPCI Advanced will be managed and monitored through the Funds Flow CET utilizing processes and procedures that have been in place and vetted through Reading Hospital's CJR experience.,,,
+1944-0000,33.0,Yes,1.0,7.0,7.0
+1944-0000,34.0,Yes,3.0,5.0,15.0
+1944-0000,35.0,No,1.0,3.0,3.0
+1944-0000,36.0,Yes,3.0,5.0,15.0
+1944-0000,37.0,Yes,3.0,5.0,15.0
+1944-0000,38.0,No,1.0,3.0,3.0
+1944-0000,39.0,Yes,1.0,6.0,6.0
+1944-0000,40.1,,,,
+1944-0000,40.2,Yes,,,
+1944-0000,40.3,,,,
+1944-0000,40.4,,,,
+1944-0000,40.5,,,,
+1944-0000,41.0,NA,,,
+1944-0000,42.0,Yes,1.0,3.0,3.0
+1944-0000,43.0,Yes,1.0,7.0,7.0
+1944-0000,44.0,Yes,1.0,5.0,5.0
+1944-0000,45.0,"Brandywine Hospital has engaged ECG Management Consultants for BPCI Advanced implementation support. As part of this engagement, ECG maintains a library of all documents and conveys key activities and timelines to the Tower Health Steering Committee and ensures that knowledge is dispersed throughout the organization. In addition, Tower Health is in the process of hiring a BPCI Advanced Coordinator who will oversee implementation activities throughout the system and serve as a day to day contact.",,,
+1944-0000,46.1,,,,
+1944-0000,46.2,,,,
+1944-0000,46.3,Yes,,,
+1944-0000,46.4,,,,
+1944-0000,46.5,,,,
+1944-0000,47.0,NA,,,
+1944-0000,48.0,Yes,1.0,7.0,7.0
+1944-0000,49.0,NA,,,
+1944-0000,50.0,No,1.0,5.0,5.0
+1944-0000,51.0,NA,,,
+1944-0000,52.0,No,3.0,4.0,12.0
+1944-0000,53.0,No,1.0,4.0,4.0
+1944-0000,54.0,"There have been no unexpected positive or negative outcomes. Positive outcomes have been associated with a multidisciplinary review of current design of internal process of care and subsequent re-design to improve patient throughput, access to care, assessment and treatment. Improvements have also been recognized through the development of a robust transition of care program led by trained care navigators. The care navigators use condition-specific questionnaires to interview patients within 48 hours of hospital discharge.  Care navigators also act as liaisons between the patient and providers as indicated. In addition, we have created internal reports to monitor the required quality metrics as well as additional metrics identified during process re-design. The internal information has provided monthly data as an indicator of successful intervention or the need to re-examine the process to achieve the desired outcome.",,,
+1944-0000,55.0,Yes,1.0,6.0,6.0
+1944-0000,56.0,Development of patient registries as a way of identifying patients in the BPCI-A bundles. Regularly scheduled operational meeting evaluating developed clinical pathways. Quality dashboards and regular meetings reviewing quality metrics and development of actions as necessary.,,,
+1944-0000,57.0,Yes; using existing system,1.0,7.0,7.0
+1944-0000,58.0,Agree,1.0,7.0,7.0
+1944-0000,59.0,Unsure,2.0,4.0,8.0
+1944-0000,60.1,,,,
+1944-0000,60.2,,,,
+1944-0000,60.3,,,,
+1944-0000,60.4,Yes,,,
+1944-0000,60.5,Yes,,,
+1944-0000,60.6,,,,
+1944-0000,60.7,,,,
+1944-0000,60.8,,,,
+1944-0000,61.0,Yes,1.0,7.0,7.0
+1944-0000,62.0,"Quarterly submission of the FAL and QPP has proven to be burdensome, especially since CMS have been delayed in sending out the FAiL reports. We find ourselves having to reconcile up to three different lists at a time.",,,
+1944-0000,63.0,Yes,1.0,7.0,7.0
+1944-0000,64.0,No,1.0,7.0,7.0
+1944-0000,65.0,"In addition to the burden of the quarterly FAL and QPP submissions, we continue to recommend that CMS consider the burden placed on providers. For example, CMS often requires a quick turnaround, but is often delayed in providing correct materials/data.",,,
