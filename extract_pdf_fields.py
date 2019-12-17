@@ -157,9 +157,9 @@ class ExtractPdfFields:
         """
 
         # Generate a DataFrame from the imported fields.
-        cols = ['BPCI ID', 'ID', 'Response', 'Response Weight', 'Risk Level', 'Risk Score']
+        cols = ['BPCI ID', 'ID', 'Question','Response', 'Response Weight', 'Risk Level', 'Risk Score']
         cols_raw = ['BPCI ID', 'Global Number', 'Topic Number', 'Topic']
-        cols_raw += ['Text', 'Response', 'ID']
+        cols_raw += ['Question', 'Response', 'ID']
         # Get the BPCI ID and the Organization name.
         self._bpci_id = self._find_bpci_id()
         self._organization_name = self._find_organization_name()
@@ -174,6 +174,7 @@ class ExtractPdfFields:
                     item_id = self.info[key]['id']
                     row = [self.bpci_id]
                     row += [self.info[key]['id']]
+                    row += [self.info[key]['text']]
                     # Get any response that may exist.
                     if '/V' in val.keys():
                         if key[:11]!='RadioButton':
@@ -202,13 +203,22 @@ class ExtractPdfFields:
 
                     # Append the risk. - 'Response Weight', 'Risk Level', 'Risk Score'
                     # missing response in PDF could be '---' or something similar (any length)
-                    if len(response)>0 and set(response)!={'-'}:
-                        if self.info[key]['id'] in self.risk_profile.keys():
-                            row += [self.risk_profile[self.info[key]['id']][response.lower()]['Response Weights'],
-                                    self.risk_profile[self.info[key]['id']][response.lower()]['Risk Level'],
-                                    self.risk_profile[self.info[key]['id']][response.lower()]['risk_score']]
-                        else:
-                            row += [np.nan, np.nan, np.nan]
+                    if len(response)>0:
+                        if set(response) != {'-'}:
+                            if self.info[key]['id'] in self.risk_profile.keys():
+                                row += [self.risk_profile[self.info[key]['id']][response.lower()]['Response Weights'],
+                                        self.risk_profile[self.info[key]['id']][response.lower()]['Risk Level'],
+                                        self.risk_profile[self.info[key]['id']][response.lower()]['risk_score']]
+                            else:
+                                row += [np.nan, np.nan, np.nan]
+                        else: # response is --- as missing
+                            if self.info[key]['id'] in self.risk_profile.keys(): # if question id in risk profile
+                                # get a valid response (eg the first) item for question id = id in risk profile
+                                valid_resp = list(self.risk_profile[self.info[key]['id']].keys())[0]
+                                q_risk_lvl = self.risk_profile[self.info[key]['id']][valid_resp]['Risk Level']
+                                row += [3, q_risk_lvl, 3*q_risk_lvl]
+                            else:
+                                row += [np.nan, np.nan, np.nan]
                     else:
                         row += [np.nan, np.nan, np.nan]
                     # Append the row to the data.
