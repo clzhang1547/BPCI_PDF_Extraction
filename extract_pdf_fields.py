@@ -47,24 +47,34 @@ class ExtractPdfFields:
         self._pdf_file_path = pdf_fp
         self._out_file_path = out_fp
         self._now = now
+        # TODO: NT manually update radio button mapping below by trying 1 option at a time
         # Radio button mapping
         self.dict_radio_button = {
-            'RadioButton1':{
-                '0': 'Strongly Agree',
-                '4': 'Agree',
-                '3': 'Neutral',
-                '2': 'Disagree',
-                '1': 'Strongly disagree',
+            'Group1':{
+                '1': 'Participated in the past 12 months and currently participating',
+                '2': 'Participated in the past 12 months but not currently participating',
+                '3': 'Did not participate in the past 12 months but currently participating',
+                '4': 'Did not participate in the past 12 months and not currently participating',
+                '9': ''
             },
-            'RadioButton2':{
-                '0': 'Strongly Agree',
-                '5': 'Agree',
-                '4': 'Neutral',
-                '3': 'Disagree',
-                '2': 'Strongly disagree',
-                '1': 'Unsure',
-                '6': 'N/A; we have not yet implemented a system for monitoring and responding to beneficiary complaints',
-            }
+            'Group2':{
+                '5': 'Participated in the past 12 months and currently participating',
+                '6': 'Participated in the past 12 months but not currently participating',
+                '7': 'Did not participate in the past 12 months but currently participating',
+                '8': 'Did not participate in the past 12 months and not currently participating',
+                '9': ''
+            },
+            'Group3':{
+                '10': 'Strongly agree',
+                '11': 'Agree',
+                '12': 'Neutral',
+                '13': 'Disagree',
+                '14': 'Strongly disagree',
+                '15': 'Unsure',
+                '16': 'NA; implementation is in progress',
+                '17': 'NA; implementation not started'
+            },
+            # }
         }
         # get risk profile
         self.risk_profile = self.import_risk_profile()
@@ -75,7 +85,7 @@ class ExtractPdfFields:
         self._parse_fields()
 
     def import_risk_profile(self):
-        with open('./risk_profile.json', 'r') as f:
+        with open('./risk_profile_wave2.json', 'r') as f:
             rp = json.load(f)
         # convert keys (id) to float to match id in info.json
         rp = {float(k): v for k, v in rp.items()}
@@ -177,7 +187,7 @@ class ExtractPdfFields:
                     row += [self.info[key]['text']]
                     # Get any response that may exist.
                     if '/V' in val.keys():
-                        if key[:11]!='RadioButton':
+                        if key[:5]!='Group': # in WAVE1, if key[:11]!='RadioButton'
                             content = val['/V']
                             if isinstance(content, PyPDF3.generic.ByteStringObject):
                                 # print('--- content before decode = \n%s ' % content)
@@ -188,12 +198,9 @@ class ExtractPdfFields:
                                 pass
                             content = content.lstrip('/')
                             response = self._parse_response(content, row[1])
-                            # if checkbox, force all non-Yes answer to '' (weird Off generated when parsing empty box)
-                            if key[:8]=='CheckBox' and response!='Yes':
-                                response=''
                             row += [response]
-                        else:
-                            radio_button_code = val['/V'].lstrip('/')
+                        else: # radio button, parse separately
+                            radio_button_code = val['/V'].lstrip('/Choice')
                             radio_button_content = self.dict_radio_button[key][radio_button_code]
                             response = self._parse_response(radio_button_content, row[1])
                             row += [response]
@@ -204,19 +211,23 @@ class ExtractPdfFields:
                     # Append the risk. - 'Response Weight', 'Risk Level', 'Risk Score'
                     # missing response in PDF could be '---' or something similar (any length)
                     if len(response)>0:
-                        if set(response) != {'-'}:
+                        if set(response)!= {'-'} and response.lower() not in ['na; implementation is in progress',
+                                                                              'na; implementation not started',
+                                                                              'na']:
+                            #^ N/A or invalid for risk scoring
                             if self.info[key]['id'] in self.risk_profile.keys():
+                                print('key=%s, val=%s, %s' % (key, val, self.info[key]['id']))
                                 row += [self.risk_profile[self.info[key]['id']][response.lower()]['Response Weights'],
                                         self.risk_profile[self.info[key]['id']][response.lower()]['Risk Level'],
                                         self.risk_profile[self.info[key]['id']][response.lower()]['risk_score']]
                             else:
                                 row += [np.nan, np.nan, np.nan]
-                        else: # response is --- as missing
+                        else: # response belongs to above exception cases, assign risk score=0 (assigned 3 in WAVE 1)
                             if self.info[key]['id'] in self.risk_profile.keys(): # if question id in risk profile
                                 # get a valid response (eg the first) item for question id = id in risk profile
                                 valid_resp = list(self.risk_profile[self.info[key]['id']].keys())[0]
                                 q_risk_lvl = self.risk_profile[self.info[key]['id']][valid_resp]['Risk Level']
-                                row += [3, q_risk_lvl, 3*q_risk_lvl]
+                                row += [0, q_risk_lvl, 0*q_risk_lvl]
                             else:
                                 row += [np.nan, np.nan, np.nan]
                     else:

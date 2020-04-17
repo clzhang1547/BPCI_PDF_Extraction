@@ -1,0 +1,555 @@
+{
+  "Q28": {
+    "local": 3,
+    "group": "NPRA Shared Payment / Repayment Amount",
+    "id": 28.0,
+    "text": "Does the Participant require NPRA Sharing Partners to contribute a proportion of the Repayment Amount owed to CMS (i.e., Shared Repayment Amount) under BPCI Advanced?",
+    "num": 30
+  },
+  "Q13": {
+    "local": 4,
+    "group": "Partner Agreements",
+    "id": 13.0,
+    "text": "Please use the comment box below to describe any challenges in implementing process and procedures to monitor agreements or in establishing agreements with partners. [If no challengesidentified, please type \u2018None\u2019 below.]",
+    "num": 15
+  },
+  "Q53": {
+    "local": 5,
+    "group": "BPCI Advanced Impact ",
+    "id": 51.0,
+    "text": "Please describe the Participant\u2019s process for monitoring and mitigating unintended consequences. [If no process established yet, please state \u2018N/A\u2019 in the comment box below.]",
+    "num": 62
+  },
+  "Check Box11": {
+    "local": 3,
+    "group": "Beneficiary Impact",
+    "id": 54.3,
+    "text": "Timing and Access - Please select the categories to which complaints the Participant has received from BPCI Advanced Beneficiaries align. Please select all that apply.",
+    "num": 67
+  },
+  "Q9": {
+    "local": 3,
+    "group": "CEHRT Use",
+    "id": 9.0,
+    "text": "Please use the comment box below to describe any challenges to meeting the CEHRT use requirements. [If no challenges identified, please type \u2018None\u2019 below.]",
+    "num": 11
+  },
+  "Q62": {
+    "local": 1,
+    "group": "Self-disclosed Investigations or Sanctions",
+    "id": 60.0,
+    "text": "Is your organization or any of its BPCI Advanced partners under investigations or subject to sanctions that have not yet been reported to CMS? [If your response is \u2018yes,\u2019 please provide written notice of any unreported investigations and/or sanctions to CMS via email (BPCIAdvanced@cms.hhs.gov). Additional information is located under Article 13 of the Participation Agreement.]",
+    "num": 78
+  },
+  "Q17": {
+    "local": 4,
+    "group": "Financial / Programmatic Infrastructure",
+    "id": 17.0,
+    "text": "Please explain any barriers or challenges associated with: (1) implementing all BPCI Advanced required processes and procedures related to NPRA sharing and/or contributions of ICS and (2) establishing an NPRA Sharing Arrangement with all NPRA Sharing Partners. [If no barriers or challenges experienced to date, please type \u2018None\u2019 in the comment box provided.]",
+    "num": 19
+  },
+  "Group3": {
+    "local": 2,
+    "group": "Beneficiary Impact",
+    "id": 53.0,
+    "text": "Please indicate how well the following statement applies: The Participant believes the current complaint tracking system appropriately monitors and addresses complaints made by BPCI Advanced Beneficiaries?",
+    "num": 64
+  },
+  "Check Box8": {
+    "local": 3,
+    "group": "Beneficiary Impact",
+    "id": 54.1,
+    "text": "Quality - Please select the categories to which complaints the Participant has received from BPCI Advanced Beneficiaries align. Please select all that apply.",
+    "num": 65
+  },
+  "Check Box5": {
+    "local": 1,
+    "group": "Beneficiary Notification Letter",
+    "id": 41.3,
+    "text": "Provided to beneficiary during the Anchor Stay or Anchor Procedure - What is the primary communication channel(s) used to provide Beneficiary Notification Letter? Select all that apply. (Note: Beneficiaries need to receive the Beneficiary Notification letter prior to discharge from the Anchor Stay or Procedures.)",
+    "num": 50
+  },
+  "4": {
+    "local": 5,
+    "group": "Waivers (Fraud & Abuse and Medicare Payment Policy)",
+    "id": 35.5,
+    "text": "NA - we have elected to use waivers, but have not yet established a process for monitoring compliance with waiver conditions - Please select from the list below all of the strategies your organization has used to monitor compliance with waiver conditions.",
+    "num": 41
+  },
+  "3": {
+    "local": 5,
+    "group": "Waivers (Fraud & Abuse and Medicare Payment Policy)",
+    "id": 35.4,
+    "text": "NA - we have not elected to use any waivers - Please select from the list below all of the strategies your organization has used to monitor compliance with waiver conditions.",
+    "num": 40
+  },
+  "Q48": {
+    "local": 6,
+    "group": "Beneficiary Notification Letter",
+    "id": 46.0,
+    "text": "Please describe the primary beneficiary feedback related to the provision of the Beneficiary Notification Letter. [If no negative feedback identified, please state \u2018N/A\u2019 in the comment box below.]",
+    "num": 57
+  },
+  "Q60": {
+    "local": 2,
+    "group": "Document Submission",
+    "id": 58.0,
+    "text": "Please describe any barriers or challenges associated with submitting required documentation in the comment box below.",
+    "num": 76
+  },
+  "Check Box3": {
+    "local": 1,
+    "group": "Beneficiary Notification Letter",
+    "id": 41.1,
+    "text": "Emailed to beneficiaries - What is the primary communication channel(s) used to provide Beneficiary Notification Letter? Select all that apply. (Note: Beneficiaries need to receive the Beneficiary Notification letter prior to discharge from the Anchor Stay or Procedures.)",
+    "num": 48
+  },
+  "Check Box14": {
+    "local": 3,
+    "group": "Beneficiary Impact",
+    "id": 54.6,
+    "text": "Patient Rights - Please select the categories to which complaints the Participant has received from BPCI Advanced Beneficiaries align. Please select all that apply.",
+    "num": 70
+  },
+  "Q51": {
+    "local": 3,
+    "group": "BPCI Advanced Impact ",
+    "id": 49.0,
+    "text": "Please describe any better-than-expected and/or unexpected negative outcomes associated with implementing BPCI Advanced. If selected \u201cunsure\u201d to the either of the two prior questions, please explain in the comment box below.",
+    "num": 60
+  },
+  "Q26": {
+    "local": 1,
+    "group": "NPRA Shared Payment / Repayment Amount",
+    "id": 26.0,
+    "text": "Has the Participant distributed NPRA Shared Payments to NPRA Sharing Partners during the past 12 months? ",
+    "num": 28
+  },
+  "Check Box10": {
+    "local": 3,
+    "group": "Beneficiary Impact",
+    "id": 54.2,
+    "text": "Safety - Please select the categories to which complaints the Participant has received from BPCI Advanced Beneficiaries align. Please select all that apply.",
+    "num": 66
+  },
+  "Q50": {
+    "local": 2,
+    "group": "BPCI Advanced Impact ",
+    "id": 48.0,
+    "text": "Has the Participant seen any unexpected negative outcomes associated with implementing BPCI Advanced?",
+    "num": 59
+  },
+  "Q23": {
+    "local": 4,
+    "group": "Internal Cost Savings (ICS)",
+    "id": 23.0,
+    "text": "Does the Participant plan to track and allow contribution of ICS associated with BPCI Advanced to the BPCI Advanced Savings Pool(s) in the next 12 months?",
+    "num": 25
+  },
+  "1": {
+    "local": 5,
+    "group": "Waivers (Fraud & Abuse and Medicare Payment Policy)",
+    "id": 35.2,
+    "text": "Internal audit - Please select from the list below all of the strategies your organization has used to monitor compliance with waiver conditions.",
+    "num": 38
+  },
+  "Check Box4": {
+    "local": 1,
+    "group": "Beneficiary Notification Letter",
+    "id": 41.2,
+    "text": "Mailed to the beneficiary's address - What is the primary communication channel(s) used to provide Beneficiary Notification Letter? Select all that apply. (Note: Beneficiaries need to receive the Beneficiary Notification letter prior to discharge from the Anchor Stay or Procedures.)",
+    "num": 49
+  },
+  "Q36": {
+    "local": 4,
+    "group": "Waivers (Fraud & Abuse and Medicare Payment Policy)",
+    "id": 34.0,
+    "text": "Has the Participant established a process for tracking waiver-related beneficiary claims activity after an Anchor Stay or Anchor Procedure in the BPCI Advanced Model and monitoring compliance with waiver requirements (Fraud and Abuse Waivers and/or Medicare Payment Policy Waivers)?",
+    "num": 36
+  },
+  "Q30": {
+    "local": 2,
+    "group": "Compliance Plan",
+    "id": 30.0,
+    "text": "Please use the comment box below to explain any barriers or challenges to completing an initial Compliance Plan. Please explain the plan and timeline for completing the Compliance Plan if it is not completed. [If no barriers or challenges experienced in completing the Compliance Plan, please type \u2018None\u2019 in the comment box provided.]",
+    "num": 32
+  },
+  "Q63": {
+    "local": 1,
+    "group": "Other Issues Not Previously Listed",
+    "id": 61.0,
+    "text": "Please describe issues, challenges or barriers associated with implementation of the BPCI Advanced Model that have not being discussed above.",
+    "num": 79
+  },
+  "Q57": {
+    "local": 4,
+    "group": "Beneficiary Impact",
+    "id": 55.0,
+    "text": "Please describe any \u2018Other\u2019 categories of complaints the Participant has received from BPCI Advanced Beneficiaries. [If no \u2018Other\u2019 categories identified, please state \u2018N/A\u2019 in the comment box below.]",
+    "num": 73
+  },
+  "Q18": {
+    "local": 5,
+    "group": "Financial / Programmatic Infrastructure",
+    "id": 18.0,
+    "text": "Has the Participant established a BPCI Advanced Entity Agreement with a BPCI Advanced Entity?",
+    "num": 20
+  },
+  "Q25": {
+    "local": 2,
+    "group": "Net Payment Reconciliation Amount (NPRA)",
+    "id": 25.0,
+    "text": "Does the Participant plan to share NPRA under BPCI Advanced in the next 12 months? ",
+    "num": 27
+  },
+  "Q8": {
+    "local": 2,
+    "group": "CEHRT Use",
+    "id": 8.0,
+    "text": "Has the Participant had challenges meeting the CEHRT use requirements?",
+    "num": 10
+  },
+  "Q19": {
+    "local": 6,
+    "group": "Financial / Programmatic Infrastructure",
+    "id": 19.0,
+    "text": "Please describe key considerations that informed the Participant\u2019s decision to either participate or not participate in Financial Arrangements (e.g., provider willingness to take on risk).",
+    "num": 21
+  },
+  "Q45": {
+    "local": 3,
+    "group": "Beneficiary Notification Letter",
+    "id": 43.0,
+    "text": "Does the Participant use the Beneficiary Notification Letter template provided by CMS? ",
+    "num": 54
+  },
+  "Q38": {
+    "local": 6,
+    "group": "Waivers (Fraud & Abuse and Medicare Payment Policy)",
+    "id": 36.0,
+    "text": "Please provide any comments on waiver use or \u2019Other\u2019 strategies the Participant has used for tracking waiver-related beneficiary claims activity after an Anchor Stay or Anchor Procedure in the BPCI Advanced Model and monitoring compliance with waiver requirements in the comment box below. [If no comments on waiver use or \u2018Other\u2019 strategies used, please state \u2018None\u2019 or \u2018NA'.]",
+    "num": 43
+  },
+  "Q11": {
+    "local": 2,
+    "group": "Partner Agreements",
+    "id": 11.0,
+    "text": "For Convener Participants: Has the Participant established agreements with all Downstream Episode Initiators (Acute Care Hospitals, PGPs), as required by the Participation Agreement?",
+    "num": 13
+  },
+  "Q22": {
+    "local": 3,
+    "group": "Internal Cost Savings (ICS)",
+    "id": 22.0,
+    "text": "Has the Participant shared any ICS contributions from BPCI Advanced Savings Pool during the past 12 months? ",
+    "num": 24
+  },
+  "Q39": {
+    "local": 1,
+    "group": "Participation in Shared learning Activities",
+    "id": 37.0,
+    "text": "Has the Participant participated in the shared learning activities (e.g., webinars, emails, town hall meetings) in accordance with Article 14 of the Participation Agreement?",
+    "num": 44
+  },
+  "Group2": {
+    "local": 1,
+    "group": "Net Payment Reconciliation Amount (NPRA)",
+    "id": 24.0,
+    "text": "Please select the option that best describes the Participant\u2019s \u00a0elections with respect to NPRA Sharing under BPCI Advanced?",
+    "num": 26
+  },
+  "Q58": {
+    "local": 5,
+    "group": "Beneficiary Impact",
+    "id": 56.0,
+    "text": "Has the Participant received any complaints related to the established system for tracking beneficiary complaints? [E.g., a beneficiary complained that their complaint was not resolved quickly enough.]",
+    "num": 74
+  },
+  "Q27": {
+    "local": 2,
+    "group": "NPRA Shared Payment / Repayment Amount",
+    "id": 27.0,
+    "text": "Has the NPRA Sharing Partner(s) distributed NPRA Shared Payments to NPRA Sharing Group Practice Practitioners during the past 12 months? ",
+    "num": 29
+  },
+  "Q59": {
+    "local": 1,
+    "group": "Document Submission",
+    "id": 57.0,
+    "text": "Is there a designated person(s) for submitting BPCI Advanced required documentation to CMS?",
+    "num": 75
+  },
+  "Check Box6": {
+    "local": 1,
+    "group": "Beneficiary Notification Letter",
+    "id": 41.4,
+    "text": "Provided during discharge procedures - What is the primary communication channel(s) used to provide Beneficiary Notification Letter? Select all that apply. (Note: Beneficiaries need to receive the Beneficiary Notification letter prior to discharge from the Anchor Stay or Procedures.)",
+    "num": 51
+  },
+  "Check Box12": {
+    "local": 3,
+    "group": "Beneficiary Impact",
+    "id": 54.4,
+    "text": "Communication - Please select the categories to which complaints the Participant has received from BPCI Advanced Beneficiaries align. Please select all that apply.",
+    "num": 68
+  },
+  "Q35": {
+    "local": 3,
+    "group": "Waivers (Fraud & Abuse and Medicare Payment Policy)",
+    "id": 33.0,
+    "text": "Has the Participant successfully operationalized use of the MPP Waiver(s) elected?",
+    "num": 35
+  },
+  "Q54": {
+    "local": 1,
+    "group": "Beneficiary Impact",
+    "id": 52.0,
+    "text": "Has the Participant implemented a system to request, track and respond to complaints made by BPCI Advanced Beneficiaries? [The complaint system does not have to be solely for beneficiaries in the BPCI Advanced Model. However, it must track complaints made by beneficiaries in the BPCI Advanced Model.]",
+    "num": 63
+  },
+  "Q12": {
+    "local": 3,
+    "group": "Partner Agreements",
+    "id": 12.0,
+    "text": "Has the Participant established processes, procedures and/or controls to validate and support monitoring of these agreements between the Participant and Participating Practitioners and Downstream Episode Initiators, as applicable, to ensure compliance with the terms and conditions of the Participation Agreement?",
+    "num": 14
+  },
+  "Q33": {
+    "local": 2,
+    "group": "Waivers (Fraud & Abuse and Medicare Payment Policy)",
+    "id": 32.0,
+    "text": "Has the Participant made changes to its selections with respect to the Medicare Payment Policy (MPP) Waivers since the submission of the MY3 Participant Profile? (e.g., Participant did not elect to use any of the MPP Waivers in the MY3 Participant Profile, but started using the waiver(s) recently.)",
+    "num": 34
+  },
+  "Q47": {
+    "local": 5,
+    "group": "Beneficiary Notification Letter",
+    "id": 45.0,
+    "text": "Has provision of the Beneficiary Notification Letter of participation resulted in negative feedback from beneficiaries?  ",
+    "num": 56
+  },
+  "Q21": {
+    "local": 2,
+    "group": "Internal Cost Savings (ICS)",
+    "id": 21.0,
+    "text": "Have NPRA Sharing Partners  realized and contributed ICS to the BPCI Advanced Savings Pool during the past 12 months?",
+    "num": 23
+  },
+  "Q6": {
+    "local": 4,
+    "group": "Care Redesign Plan",
+    "id": 6.0,
+    "text": "Please use the comment box below to provide additional details regarding successes, challenges, and/or barriers to Care Redesign Interventions.",
+    "num": 8
+  },
+  "Q46": {
+    "local": 4,
+    "group": "Beneficiary Notification Letter",
+    "id": 44.0,
+    "text": "Please explain why the Participant does not use the Beneficiary Notification Letter template. [Note: Participants are required to use the CMS provided Beneficiary Notification Letter. If the template is currently used, please state \u2018N/A\u2019 in the comment box below.]",
+    "num": 55
+  },
+  "BPID": {
+    "local": 1,
+    "group": "General Information",
+    "id": 0.0,
+    "text": "BPID",
+    "num": 1
+  },
+  "Q42": {
+    "local": 3,
+    "group": "Knowledge Management / Record Keeping / Succession Planning",
+    "id": 40.0,
+    "text": "Please describe the process (i.e., succession plan) the Participant implements to transfer knowledge from the departing individual(s) to the replacement members of the BPCI Advanced team.",
+    "num": 47
+  },
+  "Q16": {
+    "local": 3,
+    "group": "Financial / Programmatic Infrastructure",
+    "id": 16.0,
+    "text": "Has the Participant fully established NPRA Sharing Arrangements with all NPRA Sharing Partners? ",
+    "num": 18
+  },
+  "2": {
+    "local": 5,
+    "group": "Waivers (Fraud & Abuse and Medicare Payment Policy)",
+    "id": 35.3,
+    "text": "Internal and/or external software reporting - Please select from the list below all of the strategies your organization has used to monitor compliance with waiver conditions.",
+    "num": 39
+  },
+  "Check Box13": {
+    "local": 3,
+    "group": "Beneficiary Impact",
+    "id": 54.5,
+    "text": "Compassion/Caring - Please select the categories to which complaints the Participant has received from BPCI Advanced Beneficiaries align. Please select all that apply.",
+    "num": 69
+  },
+  "Q29": {
+    "local": 1,
+    "group": "Compliance Plan",
+    "id": 29.0,
+    "text": "Has the Participant completed an initial Compliance Plan? [Please upload a draft or final version of the Compliance Plan, if available, to the Monitoring and Compliance section of the Participant Portal. If your Compliance Plan includes multiple appendices, you can upload the main document only.]",
+    "num": 31
+  },
+  "Q44": {
+    "local": 2,
+    "group": "Beneficiary Notification Letter",
+    "id": 42.0,
+    "text": "Please describe any \u2018Other\u2019 communication channels used to provide the Beneficiary Notification Letter. [If no \u2018Other\u2019 communication channels used, please state \u2018N/A.\u2019]",
+    "num": 53
+  },
+  "Q15": {
+    "local": 2,
+    "group": "Financial / Programmatic Infrastructure",
+    "id": 15.0,
+    "text": "Has the Participant implemented all BPCI Advanced required processes and procedures related to Financial Arrangements (NPRA Sharing and/or ICS contributions) under BPCI Advanced? [e.g., processes to verify compliance with all applicable laws and regulations and adherence to generally accepted accounting principles, compliance plan.]",
+    "num": 17
+  },
+  "Q40": {
+    "local": 1,
+    "group": "Knowledge Management / Record Keeping / Succession Planning",
+    "id": 38.0,
+    "text": "Does the Participant have a process in place related to records management associated with BPCI Advanced Model?",
+    "num": 45
+  },
+  "0": {
+    "local": 5,
+    "group": "Waivers (Fraud & Abuse and Medicare Payment Policy)",
+    "id": 35.1,
+    "text": "Attestation - Please select from the list below all of the strategies your organization has used to monitor compliance with waiver conditions.",
+    "num": 37
+  },
+  "Q5": {
+    "local": 3,
+    "group": "Care Redesign Plan",
+    "id": 5.0,
+    "text": "Do you have concerns regarding implementation of any identified Care Redesign Interventions?",
+    "num": 7
+  },
+  "Q3": {
+    "local": 1,
+    "group": "Care Redesign Plan",
+    "id": 3.0,
+    "text": "Please indicate how well the following statement applies: The Participant is on track to implement selected Care Redesign interventions within the timeframes indicated within the 2020 Care Redesign.",
+    "num": 5
+  },
+  "Q2": {
+    "local": 2,
+    "group": "Organization Legal or Identification Changes",
+    "id": 2.0,
+    "text": "Have you reported these changes to CMS? [If your response to this question is \u2018no\u2019, please providewritten notice of changes to CMS via email (BPCIAdvanced@cms.hhs.gov). Please reference Article 3 ofthe Participation Agreement for instructions and other pertinent information.]",
+    "num": 4
+  },
+  "Q10": {
+    "local": 1,
+    "group": "Partner Agreements",
+    "id": 10.0,
+    "text": "Has the Participant established the required agreements with all Participating Practitioners? [Note: an agreement is required between a Participant (Conveners and Non-Conveners) and all Participating Practitioners, requiring Participating Practitioners to comply with all applicable terms and conditions of the Participation Agreement.]",
+    "num": 12
+  },
+  "Q31": {
+    "local": 1,
+    "group": "Waivers (Fraud & Abuse and Medicare Payment Policy)",
+    "id": 31.0,
+    "text": "Has the Participant made changes to its selections with respect to the Fraud and Abuse Waivers since the submission of the Model Year (MY) 3 Participant Profile? (e.g., Participant did not elect to use Financial Arrangements and/or Beneficiary Incentive Waivers in the MY3 Participant Profile, but has since started using the waiver(s).)",
+    "num": 33
+  },
+  "Q61": {
+    "local": 3,
+    "group": "Document Submission",
+    "id": 59.0,
+    "text": "Is there a designated person(s) for coordinating clinical document requests from the Participant and its Downstream Episode Initiators and other clinical partners?",
+    "num": 77
+  },
+  "Q14": {
+    "local": 1,
+    "group": "Financial / Programmatic Infrastructure",
+    "id": 14.0,
+    "text": "Has the Participant set up an accounting system to be used, to measure and track NPRA received from CMS, Repayment Amounts and Excess Spending Amounts owed to CMS, and Administrative Services?",
+    "num": 16
+  },
+  "Q4": {
+    "local": 2,
+    "group": "Care Redesign Plan",
+    "id": 4.0,
+    "text": "Please provide 2-3 sentences below describing the progress of your high priority Care Redesign Interventions:",
+    "num": 6
+  },
+  "Participant Legal Name": {
+    "local": 2,
+    "group": "General Information",
+    "id": 0.1,
+    "text": "Participant Legal Name",
+    "num": 2
+  },
+  "Q7": {
+    "local": 1,
+    "group": "CEHRT Use",
+    "id": 7.0,
+    "text": "Please indicate how well the following statement applies: The Participant and its Participating Practitioners are using Certified Electronic Health Record Technology (CEHRT) in a manner sufficient to meet the applicable requirements of the Advanced Alternative Payment Model criteria under 42 C.F.R. \u00a7 414.1415(a)(1)(i).  ",
+    "num": 9
+  },
+  "Check Box15": {
+    "local": 3,
+    "group": "Beneficiary Impact",
+    "id": 54.7,
+    "text": "Other - Please select the categories to which complaints the Participant has received from BPCI Advanced Beneficiaries align. Please select all that apply.",
+    "num": 71
+  },
+  "Check Box7": {
+    "local": 1,
+    "group": "Beneficiary Notification Letter",
+    "id": 41.5,
+    "text": "Other - What is the primary communication channel(s) used to provide Beneficiary Notification Letter? Select all that apply. (Note: Beneficiaries need to receive the Beneficiary Notification letter prior to discharge from the Anchor Stay or Procedures.)",
+    "num": 52
+  },
+  "Check Box16": {
+    "local": 3,
+    "group": "Beneficiary Impact",
+    "id": 54.8,
+    "text": "NA; we have not received any complaints from beneficiaries - Please select the categories to which complaints the Participant has received from BPCI Advanced Beneficiaries align. Please select all that apply.",
+    "num": 72
+  },
+  "Q52": {
+    "local": 4,
+    "group": "BPCI Advanced Impact ",
+    "id": 50.0,
+    "text": "Has the Participant established a process for monitoring and mitigating unintended consequences (e.g., patient targeting/avoidance, inadequate or insufficient care, cost- shifting) associated with implementation of the BPCI Advanced model?",
+    "num": 61
+  },
+  "Group1": {
+    "local": 1,
+    "group": "Internal Cost Savings (ICS)",
+    "id": 20.0,
+    "text": "Please select the option that best describes the Participant\u2019s participation in ICS sharing as it relates to BPCI Advanced?",
+    "num": 22
+  },
+  "Q49": {
+    "local": 1,
+    "group": "BPCI Advanced Impact ",
+    "id": 47.0,
+    "text": "Has the Participant seen any better-than-expected positive outcomes associated with implementing BPCI Advanced?",
+    "num": 58
+  },
+  "5": {
+    "local": 5,
+    "group": "Waivers (Fraud & Abuse and Medicare Payment Policy)",
+    "id": 35.6,
+    "text": "Other - Please select from the list below all of the strategies your organization has used to monitor compliance with waiver conditions.",
+    "num": 42
+  },
+  "Q41": {
+    "local": 2,
+    "group": "Knowledge Management / Record Keeping / Succession Planning",
+    "id": 39.0,
+    "text": "Does the Participant have a succession plan in place for when individuals in management or individuals who oversee implementation of the BPCI Advanced model depart the organization?",
+    "num": 46
+  },
+  "Q1": {
+    "local": 1,
+    "group": "Organization Legal or Identification Changes",
+    "id": 1.0,
+    "text": "Has the Participant, or any of its Downstream Episode Initiators, NPRA Sharing Partners, or BPCI Advanced Entities, had a legal name change, change of control or change of tax identifier in the last year?",
+    "num": 3
+  }
+}

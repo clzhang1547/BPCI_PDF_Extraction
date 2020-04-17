@@ -88,7 +88,7 @@ class GetPdfFields:
         """
 
         items = {}
-        with open(self.item_file_path, 'r') as f:
+        with open(self.item_file_path, 'r', encoding='utf-8-sig') as f:
             reader = csv.reader(f)
             # Get the column indices.
             cols = next(reader)

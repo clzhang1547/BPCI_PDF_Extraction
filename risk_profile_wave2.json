@@ -1,0 +1,574 @@
+{
+    "1.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 3,
+            "risk_score": 3
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 3,
+            "risk_score": 9
+        }
+    },
+    "2.0": {
+        "no": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        }
+    },
+    "3.0": {
+        "no": {
+            "Response Weights": 3,
+            "Risk Level": 4,
+            "risk_score": 12
+        },
+        "somewhat; implementation is on track for some interventions": {
+            "Response Weights": 2,
+            "Risk Level": 4,
+            "risk_score": 8
+        },
+        "yes; implementation is on track for all interventions": {
+            "Response Weights": 1,
+            "Risk Level": 4,
+            "risk_score": 4
+        }
+    },
+    "5.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 6,
+            "risk_score": 6
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 6,
+            "risk_score": 18
+        }
+    },
+    "7.0": {
+        "no": {
+            "Response Weights": 3,
+            "Risk Level": 3,
+            "risk_score": 9
+        },
+        "unsure": {
+            "Response Weights": 2,
+            "Risk Level": 3,
+            "risk_score": 6
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 3,
+            "risk_score": 3
+        }
+    },
+    "8.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 3,
+            "risk_score": 3
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 3,
+            "risk_score": 9
+        }
+    },
+    "10.0": {
+        "no": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        }
+    },
+    "11.0": {
+        "no": {
+            "Response Weights": 2,
+            "Risk Level": 7,
+            "risk_score": 14
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        }
+    },
+    "12.0": {
+        "no": {
+            "Response Weights": 2,
+            "Risk Level": 7,
+            "risk_score": 14
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        }
+    },
+    "14.0": {
+        "no; implementation in progress": {
+            "Response Weights": 2,
+            "Risk Level": 7,
+            "risk_score": 14
+        },
+        "no; implementation not started": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        },
+        "yes; using existing system and updating as needed": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        },
+        "yes; using new system": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        }
+    },
+    "15.0": {
+        "no": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        }
+    },
+    "16.0": {
+        "no": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        }
+    },
+    "18.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        }
+    },
+    "20.0": {
+        "did not participate in the past 12 months and not currently participating": {
+            "Response Weights": 1,
+            "Risk Level": 5,
+            "risk_score": 5
+        },
+        "did not participate in the past 12 months but currently participating": {
+            "Response Weights": 3,
+            "Risk Level": 5,
+            "risk_score": 15
+        },
+        "participated in the past 12 months and currently participating": {
+            "Response Weights": 3,
+            "Risk Level": 5,
+            "risk_score": 15
+        },
+        "participated in the past 12 months but not currently participating": {
+            "Response Weights": 2,
+            "Risk Level": 5,
+            "risk_score": 10
+        }
+    },
+    "21.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        }
+    },
+    "22.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        }
+    },
+    "23.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 5,
+            "risk_score": 5
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 5,
+            "risk_score": 15
+        }
+    },
+    "24.0": {
+        "did not participate in the past 12 months and not currently participating": {
+            "Response Weights": 1,
+            "Risk Level": 5,
+            "risk_score": 5
+        },
+        "did not participate in the past 12 months but currently participating": {
+            "Response Weights": 3,
+            "Risk Level": 5,
+            "risk_score": 15
+        },
+        "participated in the past 12 months and currently participating": {
+            "Response Weights": 3,
+            "Risk Level": 5,
+            "risk_score": 15
+        },
+        "participated in the past 12 months but not currently participating": {
+            "Response Weights": 2,
+            "Risk Level": 5,
+            "risk_score": 10
+        }
+    },
+    "25.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 5,
+            "risk_score": 5
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 5,
+            "risk_score": 15
+        }
+    },
+    "26.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        }
+    },
+    "27.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        }
+    },
+    "28.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 5,
+            "risk_score": 5
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 5,
+            "risk_score": 15
+        }
+    },
+    "29.0": {
+        "in progress": {
+            "Response Weights": 2,
+            "Risk Level": 7,
+            "risk_score": 14
+        },
+        "no; not started": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        }
+    },
+    "31.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 3,
+            "risk_score": 3
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 3,
+            "risk_score": 9
+        }
+    },
+    "32.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 3,
+            "risk_score": 3
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 3,
+            "risk_score": 9
+        }
+    },
+    "33.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 5,
+            "risk_score": 5
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 5,
+            "risk_score": 15
+        }
+    },
+    "34.0": {
+        "no": {
+            "Response Weights": 3,
+            "Risk Level": 6,
+            "risk_score": 18
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 6,
+            "risk_score": 6
+        }
+    },
+    "37.0": {
+        "no": {
+            "Response Weights": 3,
+            "Risk Level": 3,
+            "risk_score": 9
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 3,
+            "risk_score": 3
+        }
+    },
+    "38.0": {
+        "no": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        }
+    },
+    "39.0": {
+        "no": {
+            "Response Weights": 3,
+            "Risk Level": 5,
+            "risk_score": 15
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 5,
+            "risk_score": 5
+        }
+    },
+    "43.0": {
+        "no": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        }
+    },
+    "45.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 5,
+            "risk_score": 5
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 5,
+            "risk_score": 15
+        }
+    },
+    "47.0": {
+        "no": {
+            "Response Weights": 3,
+            "Risk Level": 4,
+            "risk_score": 12
+        },
+        "unsure": {
+            "Response Weights": 2,
+            "Risk Level": 4,
+            "risk_score": 8
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 4,
+            "risk_score": 4
+        }
+    },
+    "48.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 4,
+            "risk_score": 4
+        },
+        "unsure": {
+            "Response Weights": 2,
+            "Risk Level": 4,
+            "risk_score": 8
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 4,
+            "risk_score": 12
+        }
+    },
+    "50.0": {
+        "no": {
+            "Response Weights": 3,
+            "Risk Level": 6,
+            "risk_score": 18
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 6,
+            "risk_score": 6
+        }
+    },
+    "52.0": {
+        "no; implementation in progress": {
+            "Response Weights": 2,
+            "Risk Level": 7,
+            "risk_score": 14
+        },
+        "no; implementation not started": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        },
+        "yes; using existing system and updating as needed": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        },
+        "yes; using new system": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        }
+    },
+    "53.0": {
+        "agree": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        },
+        "disagree": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        },
+        "neutral": {
+            "Response Weights": 2,
+            "Risk Level": 7,
+            "risk_score": 14
+        },
+        "strongly agree": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        },
+        "strongly disagree": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        }
+    },
+    "56.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        }
+    },
+    "57.0": {
+        "no": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        }
+    },
+    "59.0": {
+        "no": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        },
+        "yes": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        }
+    },
+    "60.0": {
+        "no": {
+            "Response Weights": 1,
+            "Risk Level": 7,
+            "risk_score": 7
+        },
+        "yes": {
+            "Response Weights": 3,
+            "Risk Level": 7,
+            "risk_score": 21
+        }
+    }
+}
